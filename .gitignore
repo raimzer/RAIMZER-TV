@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", Smart Tv Box Iquique
-http://?
-#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png" WHATSAPP +56982102008
+#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", Contacto androidtv@asia.com
 http://?
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 #EXTINF:-1,TVN
@@ -127,50 +125,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 
 
-#EXTINF:-1 group-title="adultos xxx",.: ADULTOS XXX :.
-http://?
-#EXTINF:-1,PRIVATE
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,O-La-La
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,XXX
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:-1,XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-#EXTINF:-1,BLUE HUSTLER
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1,PlayBoy
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,xxx
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
-#EXTINF:-1,LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Babestation
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:-1,Babestation Blue
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1,Babestation Unleashed 2
-http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
-#EXTINF:-1,BABES SPORTING
-http://stream02.yamgo.com/iPhone/broadcast/babe_spotting-tablet.3gp/babe_spotting-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,HOT SHOTS BEACH
-http://stream02.yamgo.com/iPhone/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8
-#EXTINF:-1,BELLA CLUB
-http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,DIVA LITE
-http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
-#EXTINF:-1,HOT 100
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,Power Girls TV
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,ASIA1
-http://59.120.43.181:8081
+
 
 
 
@@ -2053,3 +2008,48 @@ http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#
 #EXTINF:-1,ORBE 21 Argentina
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8#
+
+#EXTINF:-1 group-title="adultos xxx",.: ADULTOS XXX :.
+http://?
+#EXTINF:-1,PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,O-La-La
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,PlayBoy
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,xxx
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
+#EXTINF:-1,LIVE SEX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1,Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,Babestation Unleashed 2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+#EXTINF:-1,BABES SPORTING
+http://stream02.yamgo.com/iPhone/broadcast/babe_spotting-tablet.3gp/babe_spotting-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,HOT SHOTS BEACH
+http://stream02.yamgo.com/iPhone/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8
+#EXTINF:-1,BELLA CLUB
+http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,DIVA LITE
+http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
+#EXTINF:-1,HOT 100
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,Power Girls TV
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,ASIA1
+http://59.120.43.181:8081
