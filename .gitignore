@@ -193,6 +193,8 @@ http://31.220.40.100:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=5f4ed1dd00
 http://31.220.40.100:80/LiveEdge/TDNMXLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,Univision TDN
 http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,DragonBall
+http://iptv.freeiptvlinks.com:11000/dragonball/www.freeiptvlinks.com______-/853.ch
 #EXTINF:-1 group-title=”LATINOS”,Disney Channel
 http://31.220.40.100:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,DisneyXD
