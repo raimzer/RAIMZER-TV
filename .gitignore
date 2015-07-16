@@ -74,8 +74,36 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",.:DEPORTES..:.
+http://?
+#EXTINF:-1 group-title=”LATINOS”,CDF P
+http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
+#EXTINF:-1 group-title=”LATINOS”,ESPN
+http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,ESPN 2
+http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,ESPN 3
+http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Fox Sports
+http://31.220.40.100:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Fox Sports 2
+http://31.220.40.100:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3
+http://31.220.40.100:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Bein Sports
+http://31.220.40.100:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,UFC Network
+http://31.220.40.100:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,F1
+http://31.220.40.100:80/LiveEdge/F1LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
+http://31.220.40.100:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
+http://31.220.40.100:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+#EXTINF:-1,ENCORE
+http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:-1 group-title="CINE, DEPORTRES ETC...",.: CINE, DEPORTES, ETC... :.
+#EXTINF:-1 group-title="CINE - CULTURA",.:CINE - CULTURA:.
 http://?
 #EXTINF:-1 group-title=”LATINOS”,HBO PlusLASD
 http://31.220.40.100:80/LiveEdge/HBOPlusL ASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
@@ -161,32 +189,6 @@ http://31.220.40.100:80/LiveEdge/HistoryLA/playlist.m3u8?token=5f4ed1dd00640c4e3
 http://31.220.40.100:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,Animal Planet
 http://31.220.40.100:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,ESPN
-http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,CDF P
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
-#EXTINF:-1 group-title=”LATINOS”,ESPN 2
-http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,ESPN 3
-http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports
-http://31.220.40.100:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 2
-http://31.220.40.100:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3
-http://31.220.40.100:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Bein Sports
-http://31.220.40.100:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,UFC Network
-http://31.220.40.100:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,F1
-http://31.220.40.100:80/LiveEdge/F1LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,ENCORE
-http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1 group-title=”LATINOS”,TDN
 http://31.220.40.100:80/LiveEdge/TDNMXLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,Univision TDN
@@ -218,7 +220,6 @@ http://31.220.40.100:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=5f4ed1dd00640c4e
 #EXTINF:-1 group-title=”LATINOS”,Sony
 http://31.220.40.100:80/LiveEdge/SonyLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
-
 #EXTINF:0, NASATV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 #EXTINF:0, NASATV
@@ -230,7 +231,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_700_av-p.m3u8
 #EXTINF:0, NASA Media Channel HD
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
 #EXTINF:0, NASA Media Channel
-
 #EXTINF:-1 group-title=îLATINOSî,HBOPlusLASD
 http://ift.tt/1IRFglK
 #EXTINF:-1 group-title=îLATINOSî,space
@@ -366,63 +366,12 @@ http://ift.tt/1IRFjOu
 #EXTINF:-1 group-title=îLATINOSî,Sony
 http://ift.tt/1HljqCB
 
-    IPTV
-    M3U
-
-
-
-
-
-
-#EXTINF:-1,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1, AMERICA TV HD
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
-#EXTINF:0,Disney Channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0,discovery
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,1HD
-http://109.239.142.62:1935/live/livestream3/playlist.m3u8
-
-#EXTINF:0, CDF Premium
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
-#EXTINF:0, CDO Premium
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1, BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español",RedTV
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1,GOLTV AMERICA
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:-1,ESPN HD
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Fox Sports HD
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",ATV-HD
-http://edge-31-us.edge.mdstrm.com/l...215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF:0, BethelTV HD
-http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
-#EXTINF:0, BethelTV
-http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_480p/playlist.m3u8
-
 #EXTINF:-1 group-title="Musical",.: MUSICALES :.
 http://?
 #EXTINF:-1,Canal 12 Valledupar
 http://panelhdstream.com:1935/8022/8022/playlist.m3u8#GerardoLoyolaIPTV
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,1HD
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESTUDIO TV
 rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:-1,DANCE TV
@@ -448,273 +397,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1, AMERICA TV HD
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
-#EXTINF:0,Disney Channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0,discovery
-
-http://109.239.142.62:1935/live/livestream3/playlist.m3u8
-#EXTINF:0, RecTV
-http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
-#EXTINF:0, ETC TV
-http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:0, ETC TV-2
-http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
-#EXTINF:0, CDF Premium
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
-#EXTINF:0, CDO Premium
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1, BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español",RedTV
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1,GOLTV AMERICA
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:-1,ESPN HD
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Fox Sports HD
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0, TV Chile
-http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:0,-Regiones Chile-
-http://separador.m3u
-#EXTINF:0, AntofagastaTV HD
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-#EXTINF:0, AntofagastaTV
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w2082040148_b796000.m3u8
-#EXTINF:0, Canal 9 BioBioTV HD
-http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
-#EXTINF:0, Canal 9 BioBioTV
-http://wow2.cl.digitalproserver.com/c9/livestream2/chunklist_w1784656167.m3u8
-#EXTINF:0, TVU Concepcion HD
-http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:0, TVU Concepcion
-http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2/playlist.m3u8
-#EXTINF:0, ITV HD Punta Arenas
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:0, ITV Punta Arenas
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream2/playlist.m3u8
-#EXTINF:0, PinguinoTV HD Punta Arenas 
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:0, PinguinoTV Punta Arenas 
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:0, Holvoet HD Copiapo
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:0, Holvoet Copiapo
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b848000.m3u8
-#EXTINF:0, Contivision HD
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:0, Contivision
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b796000.m3u8
-#EXTINF:0, CampusTV HD U.Talca
-http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
-#EXTINF:0, CampusTV U.Talca
-http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playlist.m3u8
-#EXTINF:0, Ufrovision HD
-http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
-#EXTINF:0, Ufrovision
-http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
-#EXTINF:0,-Peru-
-http://separador.m3u
-#EXTINF:0, ATV HD
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
-#EXTINF:0, ATV
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-#EXTINF:0, AmericaTV
-http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-b.m3u8
-#EXTINF:0, LatinaTV
-http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
-#EXTINF:0, PanamericanaTV
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:-1, UCV Satelital
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",ATV-HD
-http://edge-31-us.edge.mdstrm.com/l...215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF: -1, América TV (Perú)
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1,Panamericana Perú
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:0, RBC Satelital
-http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
-#EXTINF:0, BethelTV HD
-http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
-#EXTINF:0, BethelTV
-http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_480p/playlist.m3u8
-#EXTINF:0,-Argentina-
-#EXTINF:0, ElTrece HD
-http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
-#EXTINF:0, ElTrece
-http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
-#EXTINF:0, Telefe HD
-http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
-#EXTINF:0, Telefe
-http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
-#EXTINF:-1,América Argentina
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="telemax.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/telemax.png" group-title="IPTV ARGENTINA", TELEMAX (480p)
-http://live-edge01.telecentro.net.a...st_w2068408818_b1360000_sleng.m3u8?BRASILIPTV
-#EXTINF:-1 tvg-logo="tve 24h.png",Tve 24h HD
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0, TV Publica HD
-http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
-#EXTINF:0, TV Publica
-http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8
-#EXTINF:0, Canal 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0, Canal 26
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0, AmericaTV HD
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
-#EXTINF:0, AmericaTV 
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
-#EXTINF:0, C5N
-http://c5n.stweb.tv/c5n/live/playlist.m3u8
-#EXTINF:0, Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b1028000_sleng.m3u8
-#EXTINF:0, PakaPaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8
-#EXTINF:0, TaTeTi
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-b.m3u8
-#EXTINF:0, Orbe 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
-#EXTINF:0, DiputadosTV
-http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
-#EXTINF:0, TecTV
-http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
-#EXTINF:0,-Mexico-
-http://separador.m3u
-#EXTINF:0, Proyecto 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
-#EXTINF:0, ForoTV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:0, Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:0, Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-b.m3u8
-#EXTINF:0, Azteca Noticias-2
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
-#EXTINF:0, Azteca 7 HD Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-#EXTINF:0, Azteca 7 Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
-#EXTINF:0,-Spain-
-http://separador.m3u
-#EXTINF:0, Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0, Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
-#EXTINF:0, Antena 3 HD-2
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0, Antena 3-2
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_940K_768x432_baseline.m3u8
-#EXTINF:0, La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:0, La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
-#EXTINF:0, La Sexta HD-2
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:0, La Sexta-2 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_940K_768x432_baseline.m3u8
-#EXTINF:0, MEGA HD
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:0, MEGA
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_1_av-b.m3u8
-#EXTINF:0, TVE 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0, RTVE 24H
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0, TeleCinco
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-#EXTINF:0,-Republica Dominicana-
-#EXTINF:0, Telesistema
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
-#EXTINF:0,-Honduras-
-#EXTINF:0, Ten HD
-http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
-#EXTINF:0,-Asia-
-http://separador.m3u
-#EXTINF:0, NHK World
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:0, NHK World-2
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_600.m3u8
-#EXTINF:0, Arirang World HD
-http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
-#EXTINF:0, Arirang World SD
-http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld3.m3u8
-#EXTINF:0, Arirang World SD 360p
-http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld2.m3u8
-#EXTINF:0, Arirang Korea HD
-http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
-#EXTINF:0, Arirang Korea SD
-http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea3.m3u8
-#EXTINF:0, Arirang Korea SD 360p
-http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea2.m3u8
-#EXTINF:0, Arirang Radio StudioTV 
-http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
-#EXTINF:0,-Internacionales-
-http://separador.m3u
-#EXTINF:0, RT Espanol HD
-http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
-#EXTINF:0, RT Espanol
-http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
-#EXTINF:0, RT Global HD
-http://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
-#EXTINF:0, RT Global
-http://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
-#EXTINF:0, RT America HD
-http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
-#EXTINF:0, RT America
-http://rt-a.akamaihd.net/ch_04@325608/480p.m3u8
-#EXTINF:0, RT UK HD
-http://rt-a.akamaihd.net/ch_06@325610/720p.m3u8
-#EXTINF:0, RT UK
-http://rt-a.akamaihd.net/ch_06@325610/480p.m3u8
-#EXTINF:0, RT Documentary HD
-http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
-#EXTINF:0, RT Documentary
-http://rt-a.akamaihd.net/ch_05@325609/480p.m3u8
-#EXTINF:0, RT Arabic  HD
-http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
-#EXTINF:0, RT Arabic 
-http://rt-a.akamaihd.net/ch_03@325607/480p.m3u8
-#EXTINF:0, DW Europe
-http://dwschiene1-i.akamaihd.net/hls/live/221758-b/dwschiene1/x6x/playlist6x.m3u8
-#EXTINF:0, DW Arabia
-http://dwschiene2-i.akamaihd.net/hls/live/221759-b/dwschiene2/x6x/playlist6x.m3u8
-#EXTINF:0, DW Latino
-http://dwschiene3-i.akamaihd.net/hls/live/221760-b/dwschiene3/x6x/playlist6x.m3u8
-#EXTINF:0, DW Asia
-http://dwschiene4-i.akamaihd.net/hls/live/221761-b/dwschiene4/x6x/playlist6x.m3u8
-#EXTINF:0, DW America
-http://dwschiene5-i.akamaihd.net/hls/live/221762-b/dwschiene5/x6x/playlist6x.m3u8
-#EXTINF:0, DW Germany
-http://dwschiene6-i.akamaihd.net/hls/live/221763-b/dwschiene6/x6x/playlist6x.m3u8
-#EXTINF:0, HispanTV HD
-http://ptv04.level3.hls.live.cdn.overon.es/01.m3u8
-#EXTINF:0, HispanTV
-http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
-
-
-
-#
 #EXTINF:-1 group-title="adultos xxx",.: ADULTOS XXX :.
 http://?
 #EXTINF:-1,PRIVATE
