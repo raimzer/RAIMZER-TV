@@ -73,14 +73,13 @@ http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-
 #EXTINF:-1 group-title="DEPORTES",.:DEPORTES..:.
 http://?
-#EXTINF:-1 group-title=”LATINOS”,CDF P
+#EXTINF:0, group-title=”LATINOS”,CDF P
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
-#EXTINF:-1 group-title=”LATINOS”,ESPN
+#EXTINF:0, group-title=”LATINOS”,ESPN
 http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,ESPN 2
+#EXTINF:0, group-title=”LATINOS”,ESPN 2
 http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,ESPN 3
 http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
