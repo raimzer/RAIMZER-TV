@@ -73,304 +73,44 @@ http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1 group-title="DEPORTES",.:DEPORTES..:.
-http://?
-#EXTINF:0, group-title=”LATINOS”,CDF P
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
-#EXTINF:0, group-title=”LATINOS”,ESPN
-http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:0, group-title=”LATINOS”,ESPN 2
-http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,ESPN 3
-http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports
-http://31.220.40.100:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 2
-http://31.220.40.100:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3
-http://31.220.40.100:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Bein Sports
-http://31.220.40.100:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,UFC Network
-http://31.220.40.100:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,F1
-http://31.220.40.100:80/LiveEdge/F1LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,ENCORE
-http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:-1 group-title="CINE - CULTURA",.:CINE - CULTURA:.
-http://?
-#EXTINF:-1 group-title=”LATINOS”,HBO PlusLASD
-http://31.220.40.100:80/LiveEdge/HBOPlusL ASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,space
-http://31.220.40.100:80/LiveEdge/SpaceLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FX
-http://31.220.40.100:80/LiveEdge/FXLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,SyFy
-http://31.220.40.100:80/LiveEdge/SyFyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Mundo Fox
-http://31.220.40.100:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,max
-http://31.220.40.100:80/LiveEdge/MAXLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,max up
-http://31.220.40.100:80/LiveEdge/MaxUPSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Max Prime
-http://31.220.40.100:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Max Prime 2
-http://31.220.40.100:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FOX Family
-http://31.220.40.100:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Fox Cinema
-http://31.220.40.100:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FOX Comedy
-http://31.220.40.100:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FOX ACTION
-http://31.220.40.100:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,HBO
-http://31.220.40.100:80/LiveEdge/HBOLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,HBO 2
-http://31.220.40.100:80/LiveEdge/HBO2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,HBO Signature
-http://31.220.40.100:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FOX 1
-http://31.220.40.100:80/LiveEdge/FOX1LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,FOX HD
-http://31.220.40.100:80/LiveEdge/FOXHDLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Film Zone
-http://31.220.40.100:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,TNT HD
-http://31.220.40.100:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Cine Latino
-http://31.220.40.100:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Golden HD
-http://31.220.40.100:80/LiveEdge/GoldenHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,canal de las estrellas
-http://31.220.40.100:80/LiveEdge/EstrellasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Univision
-http://31.220.40.100:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,unimas
-http://31.220.40.100:80/LiveEdge/UniMasUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Pasiones
-http://31.220.40.100:80/LiveEdge/PasionesSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Telemundo
-http://31.220.40.100:80/LiveEdge/TelemundoUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Telemundo
-http://31.220.40.100:80/LiveEdge/TelemundoSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,RCN novelas
-http://31.220.40.100:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Telenovelas
-http://31.220.40.100:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Telecentro
-http://31.220.40.100:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Caracol internacional
-http://31.220.40.100:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Tv Globo Internacional
-http://31.220.40.100:80/LiveEdge/TVGloboLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Discovery
-http://31.220.40.100:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Discovery Channel SD 
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title=”LATINOS”,Discovery Theater
-http://31.220.40.100:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Discovery World
-http://31.220.40.100:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Discovery Home & Health
-http://31.220.40.100:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,History 2
-http://31.220.40.100:80/LiveEdge/H2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,History
-http://31.220.40.100:80/LiveEdge/HistoryLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Nat Geo
-http://31.220.40.100:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Animal Planet
-http://31.220.40.100:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,TDN
-http://31.220.40.100:80/LiveEdge/TDNMXLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Univision TDN
-http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,DragonBall
-http://iptv.freeiptvlinks.com:11000/dragonball/www.freeiptvlinks.com______-/853.ch
-#EXTINF:-1 group-title=”LATINOS”,Disney Channel
-http://31.220.40.100:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,DisneyXD
-http://31.220.40.100:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Disney Jr
-http://31.220.40.100:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Nickelodeon
-http://31.220.40.100:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Nick Jr
-http://31.220.40.100:80/LiveEdge/NickJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Discovery Kids
-http://31.220.40.100:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Cartoon Network
-http://31.220.40.100:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Boomerang
-http://31.220.40.100:80/LiveEdge/BoomerangLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Tooncast
-http://31.220.40.100:80/LiveEdge/TooncastSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Baby First
-http://31.220.40.100:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Baby TV
-http://31.220.40.100:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Cbeebies
-http://31.220.40.100:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1 group-title=”LATINOS”,Sony
-http://31.220.40.100:80/LiveEdge/SonyLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
-#EXTINF:0, NASATV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
-#EXTINF:0, NASATV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8
-#EXTINF:0, NASATV Educational HD
-http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_1000_av-p.m3u8
-#EXTINF:0, NASATV Educational
-http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_700_av-p.m3u8
-#EXTINF:0, NASA Media Channel HD
-http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
-#EXTINF:0, NASA Media Channel
-#EXTINF:-1 group-title=îLATINOSî,HBOPlusLASD
-http://ift.tt/1IRFglK
-#EXTINF:-1 group-title=îLATINOSî,space
-http://ift.tt/1HljrGA
-#EXTINF:-1 group-title=îLATINOSî,FX
-http://ift.tt/1IRFglM
-#EXTINF:-1 group-title=îLATINOSî,SyFy
-http://ift.tt/1HljpP5
-#EXTINF:-1 group-title=îLATINOSî,Mundo Fox
-http://ift.tt/1IRFhGr
-#EXTINF:-1 group-title=îLATINOSî,max
-http://ift.tt/1HljrGC
-#EXTINF:-1 group-title=îLATINOSî,max up
-http://ift.tt/1IRFhWF
-#EXTINF:-1 group-title=îLATINOSî,Max Prime
-http://ift.tt/1HljpP7
-#EXTINF:-1 group-title=îLATINOSî,Max Prime 2
-http://ift.tt/1IRFhWH
-#EXTINF:-1 group-title=îLATINOSî,FOX Family
-http://ift.tt/1HljrGE
-#EXTINF:-1 group-title=îLATINOSî,Fox Cinema
-http://ift.tt/1IRFjhf
-#EXTINF:-1 group-title=îLATINOSî,FOX Comedy
-http://ift.tt/1HljpP9
-#EXTINF:-1 group-title=îLATINOSî,FOX ACTION
-http://ift.tt/1IRFjhh
-#EXTINF:-1 group-title=îLATINOSî,HBO
-http://ift.tt/1HljrGJ
-#EXTINF:-1 group-title=îLATINOSî,HBO 2
-http://ift.tt/1IRFjhj
-#EXTINF:-1 group-title=îLATINOSî,HBO Signature
-http://ift.tt/1HljpPb
-#EXTINF:-1 group-title=îLATINOSî,FOX 1
-http://ift.tt/1IRFjhl
-#EXTINF:-1 group-title=îLATINOSî,FOX HD
-http://ift.tt/1HljpPd
-#EXTINF:-1 group-title=îLATINOSî,Film Zone
-http://ift.tt/1IRFhWL
-#EXTINF:-1 group-title=îLATINOSî,TNT HD
-http://ift.tt/1IRFhWN
-#EXTINF:-1 group-title=îLATINOSî,Cine Latino
-http://ift.tt/1Hljq5v
-#EXTINF:-1 group-title=îLATINOSî,Golden HD
-http://ift.tt/1IRFjhn
-#EXTINF:-1 group-title=îLATINOSî,canal de las estrellas
-http://ift.tt/1HljrGN
-#EXTINF:-1 group-title=îLATINOSî,Univision
-http://ift.tt/1IRFhWT
-#EXTINF:-1 group-title=îLATINOSî,unimas
-http://ift.tt/1HljrX2
-#EXTINF:-1 group-title=îLATINOSî,Pasiones
-http://ift.tt/1IRFjhp
-#EXTINF:-1 group-title=îLATINOSî,Telemundo
-http://ift.tt/1Hljq5y
-#EXTINF:-1 group-title=îLATINOSî,Telemundo
-http://ift.tt/1IRFjhv
-#EXTINF:-1 group-title=îLATINOSî,RCN novelas
-http://ift.tt/1Hljq5A
-#EXTINF:-1 group-title=îLATINOSî,Telenovelas
-http://ift.tt/1IRFjxL
-#EXTINF:-1 group-title=îLATINOSî,Telecentro
-http://ift.tt/1HljrX4
-#EXTINF:-1 group-title=îLATINOSî,Caracol internacional
-http://ift.tt/1IRFidb
-#EXTINF:-1 group-title=îLATINOSî,Tv Globo Internacional
-http://ift.tt/1Hljq5E
-#EXTINF:-1 group-title=îLATINOSî,Discovery
-http://ift.tt/1IRFjxP
-#EXTINF:-1 group-title=îLATINOSî,Discovery Theater
-http://ift.tt/1Hljq5G
-#EXTINF:-1 group-title=îLATINOSî,Discovery World
-http://ift.tt/1IRFjxR
-#EXTINF:-1 group-title=îLATINOSî,Discovery Home & Health
-http://ift.tt/1HljrX7
-#EXTINF:-1 group-title=îLATINOSî,History 2
-http://ift.tt/1IRFidh
-#EXTINF:-1 group-title=îLATINOSî,History
-http://ift.tt/1Hljq5I
-#EXTINF:-1 group-title=îLATINOSî,Nat Geo
-http://ift.tt/1IRFjxU
-#EXTINF:-1 group-title=îLATINOSî,Animal Planet
-http://ift.tt/1HljrXb
-#EXTINF:-1 group-title=îLATINOSî,ESPN
-http://ift.tt/1IRFidj
-#EXTINF:-1 group-title=îLATINOSî,ESPN 2
-http://ift.tt/1HljqlX
-#EXTINF:-1 group-title=îLATINOSî,ESPN 3
-http://ift.tt/1IRFjy0
-#EXTINF:-1 group-title=îLATINOSî,Fox Sports
-http://ift.tt/1HljrXf
-#EXTINF:-1 group-title=îLATINOSî,Fox Sports 2
-http://ift.tt/1HljrXh
-#EXTINF:-1 group-title=îLATINOSî,Fox Sports 3
-http://ift.tt/1Hljqm3
-#EXTINF:-1 group-title=îLATINOSî,Bein Sports
-http://ift.tt/1HljrXj
-#EXTINF:-1 group-title=îLATINOSî,UFC Network
-http://ift.tt/1Hljqm5
-#EXTINF:-1 group-title=îLATINOSî,F1
-http://ift.tt/1IRFidp
-#EXTINF:-1 group-title=îLATINOSî,Planeta Futbol
-http://ift.tt/1HljsdB
-#EXTINF:-1 group-title=îLATINOSî,Planeta Futbol
-http://ift.tt/1IRFidr
-#EXTINF:-1 group-title=îLATINOSî,TDN
-http://ift.tt/1HljsdD
-#EXTINF:-1 group-title=îLATINOSî,Univision TDN
-http://ift.tt/1IRFidt
-#EXTINF:-1 group-title=îLATINOSî,Disney Channel
-http://ift.tt/1Hljqmb
-#EXTINF:-1 group-title=îLATINOSî,DisneyXD
-http://ift.tt/1IRFjOs
-#EXTINF:-1 group-title=îLATINOSî,Disney Jr
-http://ift.tt/1HljsdH
-#EXTINF:-1 group-title=îLATINOSî,Nickelodeon
-http://ift.tt/1IRFitH
-#EXTINF:-1 group-title=îLATINOSî,Nick Jr
-http://ift.tt/1Hljqmf
-#EXTINF:-1 group-title=îLATINOSî,Discovery Kids
-http://ift.tt/1IRFitJ
-#EXTINF:-1 group-title=îLATINOSî,Cartoon Network
-http://ift.tt/1HljqCt
-#EXTINF:-1 group-title=îLATINOSî,Boomerang
-http://ift.tt/1IRFitL
-#EXTINF:-1 group-title=îLATINOSî,Tooncast
-http://ift.tt/1HljqCx
-#EXTINF:-1 group-title=îLATINOSî,Baby First
-http://ift.tt/1IRFitN
-#EXTINF:-1 group-title=îLATINOSî,Baby TV
-http://ift.tt/1HljsdL
-#EXTINF:-1 group-title=îLATINOSî,Cbeebies
-http://ift.tt/1IRFjOu
-#EXTINF:-1 group-title=îLATINOSî,Sony
-http://ift.tt/1HljqCB
+#EXTINF:0,--Cable--
+http://separador.m3u
+#EXTINF:0, CDO HD
+http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
+#EXTINF:0, ESPN
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0, Fox Sports
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0, GolTV USA 1080p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
+#EXTINF:0, GolTV USA 720p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
+#EXTINF:0, GolTV USA 480p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
+#EXTINF:0, BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:0, BeIN Sport 2 
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+#EXTINF:0, Azteca 7 HD Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+#EXTINF:0, Azteca 7 Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
+
+
 
 #EXTINF:-1 group-title="Musical",.: MUSICALES :.
 http://?
+#EXTINF:-1,USA:VEVO HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:-1,Canal 12 Valledupar
 http://panelhdstream.com:1935/8022/8022/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:0, First Music HD 1080p
+http://109.239.142.62:1935/live/livestream1/playlist.m3u8
+#EXTINF:0, First Music HD 720p
+http://109.239.142.62:1935/live/hlsstream/playlist2.m3u8
+#EXTINF:0, First Music HD 480p
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
 #EXTINF:-1,1HD
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESTUDIO TV
