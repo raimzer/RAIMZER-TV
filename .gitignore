@@ -76,35 +76,40 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:-1,History Channel
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1,Latino Ultra Cine HD 720
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:0,TVE 24 Horas
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0, Anime en EspaÃ±ol
+#EXTINF:0,anime en español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0,DW
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1,History Channel
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:0, CDO HD
+#EXTINF:-1, CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0,CDO HD
 http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
-#EXTINF:0, ESPN
+#EXTINF:0,ESPN
 http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0, Fox Sports
+#EXTINF:0,Fox Sports
 http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0, GolTV USA 1080p
+#EXTINF:0,GolTV USA 1080p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
-#EXTINF:0, GolTV USA 720p
+#EXTINF:0,GolTV USA 720p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
-#EXTINF:0, GolTV USA 480p
+#EXTINF:0,GolTV USA 480p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
-#EXTINF:0, BeIN Sport 1
+#EXTINF:0,BeIN Sport 1
 http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:0, BeIN Sport 2 
+#EXTINF:0,BeIN Sport 2 
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:0, Azteca 7 HD Deportes
+#EXTINF:0,Azteca 7 HD Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-#EXTINF:0, Azteca 7 Deportes
+#EXTINF:0,Azteca 7 Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
 
 
