@@ -3,6 +3,8 @@
 http://?
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
+#EXTINF:0, ... 
+http://localhost:8899/channels.html?portal=1
 #EXTINF:0, RedTV
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:0, UCV HD
