@@ -3,8 +3,6 @@
 http://?
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
-#EXTINF:0, ... 
-http://localhost:8899/channels.html?portal=1
 #EXTINF:0, RedTV
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:0, UCV HD
@@ -78,6 +76,16 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:-1,Latino Ultra Cine HD 720
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:0,TVE 24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, Anime en EspaÃ±ol
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0,DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:-1,History Channel
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:0, CDO HD
 http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
 #EXTINF:0, ESPN
