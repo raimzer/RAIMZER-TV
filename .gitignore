@@ -148,6 +148,8 @@ http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
 
 #EXTINF:-1 group-title="Musical",.: MUSICALES :.
 http://?
+#EXTINF:0,VEVO 1 HD Pop
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,USA:VEVO HD 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:-1,Canal 12 Valledupar
