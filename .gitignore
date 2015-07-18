@@ -78,6 +78,34 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:-1,PELICULAS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:0,ATV HD
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
+#EXTINF:0,Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b1028000_sleng.m3u8
+#EXTINF:0,Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
+#EXTINF:0,Canal de las Estrellas HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:0,Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:0,RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0,RT Espanol HD
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:0,HispanTV
+http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
+#EXTINF:0, VIVE
+mms://difusion.cantv.net/vhost-covetel_live
+#EXTINF:0,MEGA HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:0,AmericaTV HD
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:0,La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 #EXTINF:-1,History Channel
