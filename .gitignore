@@ -82,9 +82,9 @@ http://31.220.40.108:80/LiveEdge/UniversalLASD/chunklist_w1464003153_b1000000.m3
 #EXTINF:-1,LATINO ULTRA CINE HD 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:0,CINE DINAMITA
-http://31.220.40.100:80/LiveEdge/CineDinamitaLA/chunklist_w1950898583_b1000000.m3u8?token=dc5f8ca889b70ff936ab605ce9b3f944
+http://31.220.40.105:80/LiveEdge/CineDinamitaLA/chunklist_w574881102_b1000000.m3u8?token=3ed0a445a499720b6351b8c40cbccb61
 #EXTINF:0,CINE LATINO
-http://31.220.40.118:80/LiveEdge/CineLatinoSD/chunklist_w2030078851_b1000000.m3u8?token=93fb8f2ed117bbabb123cea62e3a610d
+http://31.220.41.107:80/LiveEdge/CineLatinoSD/chunklist_w1347372946_b1000000.m3u8?token=8e460b6b653f46d40d11f6d7bac9ee9f
 #EXTINF:0,GOLDEN HD
 http://31.220.40.118:80/LiveEdge/GoldenHD/chunklist_w2097630654_b1000000.m3u8?token=dd9177e4569a2991f797aef7f0064256
 #EXTINF:0,GOLDEN MULTIPLEX
@@ -92,7 +92,7 @@ http://31.220.41.103:80/LiveEdge/GoldenMPLXLA/chunklist_w57452533_b1000000.m3u8?
 #EXTINF:0,GOLDEN EDGE
 http://31.220.40.115:80/LiveEdge/GoldenEdgeLA/chunklist_w1480485276_b1000000.m3u8?token=929ec927c228591ab404fa08594324b7
 #EXTINF:0,GOLDEN PREMIER
-http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1581158344_b1000000.m3u8?token=5d3658d17110c1a4270ec521a9b7adef
+http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1793051384_b1000000.m3u8?token=8be5ca9caa4d3fb49720ca717c4ac1e8
 #EXTINF:0,SUNDANCE CHANNEL
 http://31.220.40.118:80/LiveEdge/SundanceLA/chunklist_w1400460647_b1000000.m3u8?token=27dd8536d1cb5320e1b1faffd35d3eff
 #EXTINF:0,CINE CANAL
@@ -143,6 +143,8 @@ http://31.220.40.121:80/LiveEdge/HBOFamilyLASD/chunklist_w1445000281_b1000000.m3
 http://31.220.40.115:80/LiveEdge/HBOSignatureLASD/chunklist_w1330173553_b1000000.m3u8?token=0994880d3b2113df052f1431213379d7
 #EXTINF:0,MAX UP
 http://31.220.40.119:80/LiveEdge/MaxUPSD/chunklist_w1186656_b1000000.m3u8?token=fa37f3f69c1f31bb9006c8cd54dba383
+#EXTINF:0,MAX
+http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1793051384_b1000000.m3u8?token=8be5ca9caa4d3fb49720ca717c4ac1e8
 #EXTINF:0,DW
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1,PELICULAS
