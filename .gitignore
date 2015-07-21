@@ -94,19 +94,19 @@ http://31.220.40.115:80/LiveEdge/GoldenEdgeLA/chunklist_w1480485276_b1000000.m3u
 #EXTINF:0,GOLDEN PREMIER
 http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1793051384_b1000000.m3u8?token=8be5ca9caa4d3fb49720ca717c4ac1e8
 #EXTINF:0,SUNDANCE CHANNEL
-http://31.220.40.118:80/LiveEdge/SundanceLA/chunklist_w1400460647_b1000000.m3u8?token=27dd8536d1cb5320e1b1faffd35d3eff
+http://31.220.40.118:80/LiveEdge/SundanceLA/chunklist_w602719905_b1000000.m3u8?token=36e26ea114db6b510a13124d5c6b8019
 #EXTINF:0,CINE CANAL
-http://31.220.40.100:80/LiveEdge/CineCanalLA/chunklist_w1722003788_b1000000.m3u8?token=e4d1c1192e4d920c408d19aa19e7228a
+http://31.220.40.100:80/LiveEdge/CineCanalLA/chunklist_w1784075099_b1000000.m3u8?token=b24354ce810f19213c721b015b550bf2
 #EXTINF:0,CINE MAX
-http://31.220.40.121:80/LiveEdge/CinemaxLASD/chunklist_w1573812868_b1000000.m3u8?token=d2f28570f270a9d7009d28fc4daaba19
+http://31.220.40.121:80/LiveEdge/CinemaxLASD/chunklist_w1710792558_b1000000.m3u8?token=a36dcc0a1a7d2389fd7889014068bbf0
 #EXTINF:0,TNT SERIES
 http://31.220.40.117:80/LiveEdge/infinitoSD/chunklist_w1759880391_b1000000.m3u8?token=2160b38b0b71fd145ccab7bcbda44066
 #EXTINF:0,SPACE
-http://31.220.40.118:80/LiveEdge/SpaceLA/chunklist_w757139505_b1000000.m3u8?token=95992fc96b13222b54d440a9ef75000f
+http://31.220.40.105:80/LiveEdge/SpaceLA/chunklist_w546426764_b1000000.m3u8?token=61563473d72f8271e98c45417e024656
 #EXTINF:0,AMC
-http://31.220.40.121:80/LiveEdge/AMCLASD/chunklist_w267209064_b1000000.m3u8?token=072ee3d5fcc756144ad54d60f7babf8a
+http://31.220.40.121:80/LiveEdge/AMCLASD/chunklist_w1473933803_b1000000.m3u8?token=988f4a28b02e63d9b93deb260434ea57
 #EXTINF:0,STUDIO UNIVERSAL
-http://31.220.40.118:80/LiveEdge/StudioUniversalSD/chunklist_w532587160_b1000000.m3u8?token=0ec91f56b11ddcc529aa18819eba5bd6
+http://31.220.40.123:80/LiveEdge/StudioUniversalSD/chunklist_w218386954_b1000000.m3u8?token=ab8571481c53e22d5a6b16f1e91843b3
 #EXTINF:0,TCM
 http://31.220.40.115:80/LiveEdge/TCMSD/chunklist_w1929560732_b1000000.m3u8?token=14c4f4763e4d9c9826d92cee745e4628
 #EXTINF:0,I-SAT
