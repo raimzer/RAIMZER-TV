@@ -78,8 +78,8 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
-#EXTINF:0,GOLDEN PREMIER
-http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/media_w1648462005_b1000000_4441.ts?token=f98b09ee42d46bf322591e6eee114567
+#EXTINF:-1,GOLDEN PREMIER
+http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1648462005_b1000000.m3u8?token=f98b09ee42d46bf322591e6eee114567
 #EXTINF:0,FOX Comedy
 http://31.220.41.111:80/LiveEdge/FOXComedyLASD/chunklist_w899729133_b1000000.m3u8?token=5b8eac826c19df63f411e115d082df8e
 #EXTINF:-1,PELICULAS
