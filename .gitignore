@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", en proceso de actualizacion de canales
+#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", NUEVOS CANALES EN CABLE
 http://?
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
@@ -78,6 +78,12 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:0,HBO
+http://31.220.40.118:80/LiveEdge/HBOLASD/chunklist_w424105428_b1000000.m3u8?token=2a617b495c8bdbbf83550dd2266f2b65
+#EXTINF:0,FILM ZONE
+http://31.220.41.103:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=141cc0f48a2821ff5e1f4404da9f89da
+#EXTINF:0,MAX PRIME OESTE
+http://31.220.41.102/LiveEdge/MaxPrime2LASD/chunklist_w261308642_b1000000.m3u8?token=8e5c395edf8032acbfcffe86d77601b1
 #EXTINF:0,GOLDEN PREMIER 1
 http://31.220.41.102:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=8d7528fc49def684919f2110aa1b9128
 #EXTINF:0,MAX
