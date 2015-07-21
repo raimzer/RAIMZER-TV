@@ -78,6 +78,10 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:0,GOLDEN PREMIER 1
+http://31.220.41.102:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=8d7528fc49def684919f2110aa1b9128
+#EXTINF:0,MAX
+http://31.220.40.115/LiveEdge/MAXLASD/chunklist_w577652109_b1000000.m3u8?token=768538edc2f1d7206d34211200ea24fa
 #EXTINF:-1,PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:0,ATV HD
