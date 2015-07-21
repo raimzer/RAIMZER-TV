@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", NUEVOS CANALES EN CABLE
+#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png", 
 http://?
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
@@ -78,56 +78,10 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 
 #EXTINF:0,--Cable--
 http://separador.m3u
-#EXTINF:0,FOX 1 ESTE
-http://31.220.41.111:80/LiveEdge/FOX1LASD/media_w981304560_b1000000_32903.ts?token=46226a4018090064beaaa3e7da701c31
-#EXTINF:0,FOX 1 OESTE
-http://31.220.40.118:80/LiveEdge/FOX1OesteLASD/media_w288397643_b1000000_10908.ts?token=e05c2752d73be621249258adaf8fe7a5
-#EXTINF:0,FOX Family
-http://31.220.40.119:80/LiveEdge/FOXFamilyLASD/chunklist_w1851856989_b1000000.m3u8?token=155cc3aad7784b929ae597a12a964401
+#EXTINF:0,GOLDEN PREMIER
+http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/media_w1648462005_b1000000_4441.ts?token=f98b09ee42d46bf322591e6eee114567
 #EXTINF:0,FOX Comedy
 http://31.220.41.111:80/LiveEdge/FOXComedyLASD/chunklist_w899729133_b1000000.m3u8?token=5b8eac826c19df63f411e115d082df8e
-#EXTINF:0,FOX Cinema
-http://31.220.41.107:80/LiveEdge/FoxCinemaSD/chunklist_w31999501_b1000000.m3u8?token=6087c877f896e0d6a9283f93fa7c2b92
-#EXTINF:0,FOX Action Este
-http://31.220.41.102:80/LiveEdge/FOXACTIONLASD/chunklist_w257968469_b1000000.m3u8?token=d2fe67322a59acd3bf1bbd09d17e35e6
-#EXTINF:0,FOX Action Oeste
-http://31.220.41.107:80/LiveEdge/FOXActionOesteLASD/chunklist_w1227870450_b1000000.m3u8?token=dcce207ac56de196fa014567dac1be0a
-#EXTINF:0,FOX Movies
-http://31.220.40.108:80/LiveEdge/FOXMoviesLASD/chunklist_w433568019_b1000000.m3u8?token=0c742ff7e1c6e956f61fc86d0d41ca0c
-#EXTINF:0,FOX Classics
-http://31.220.40.123:80/LiveEdge/FOXClassicsLASD/media_w71008154_b1000000_1547.ts?token=08563ff5dd60386a1fc318125aad6ca7
-#EXTINF:0,HBO
-http://31.220.40.118:80/LiveEdge/HBOLASD/chunklist_w424105428_b1000000.m3u8?token=2a617b495c8bdbbf83550dd2266f2b65
-#EXTINF:0,HBO 2
-http://31.220.40.105:80/LiveEdge/HBO2SD/chunklist_w155607261_b1000000.m3u8?token=1b17c667783d5f1cee3ef6e80581a6db
-#EXTINF:0,HBO Plus Este
-http://31.220.41.111:80/LiveEdge/HBOPlusLASD/media_w128278691_b1000000_14816.ts?token=f9cb61ff015590e63a358113bfb89dd9
-#EXTINF:0,HBO Plus Oeste
-http://31.220.40.100:80/LiveEdge/HBOPus2LASD/chunklist_w1470202517_b1000000.m3u8?token=fa7111031c7b47312de70de0b53f3200
-#EXTINF:0,HBO Signature
-http://31.220.41.103:80/LiveEdge/HBOSignatureLASD/chunklist_w633274872_b1000000.m3u8?token=66c9849bcdf519d71d2dc5d59f57d851
-#EXTINF:0,HBO Family
-http://31.220.40.100:80/LiveEdge/HBOFamilyLASD/media_w285134951_b1000000_1314.ts?token=2f03cdacff4661cd49df2bf927eb167a
-#EXTINF:0,I-Sat
-http://31.220.40.117:80/LiveEdge/ISATLA/chunklist_w128676103_b1000000.m3u8?token=4a282ca232f805d9623e4e4dcf31c178
-#EXTINF:0,TCM
-http://31.220.40.116:80/LiveEdge/TCMSD/media_w956431297_b1000000_335.ts?token=9e644509df066833f0eb765de56020fe
-#EXTINF:0,Studio Universal
-http://31.220.40.119:80/LiveEdge/StudioUniversalSD/chunklist_w1154690802_b1000000.m3u8?token=ec26d70eff806ff15342501a4630fc7f
-#EXTINF:0,AMC
-http://31.220.40.121/LiveEdge/AMCLASD/chunklist_w464055658_b1000000.m3u8?token=6c68f21f63581643a22d37a620a94aea
-#EXTINF:0,Space
-http://31.220.40.118:80/LiveEdge/SpaceLA/media_w1477960738_b1000000_11144.ts?token=d81449ed615f74764aaa7487f107af6f
-#EXTINF:0,FILM ZONE
-http://31.220.41.102:80/LiveEdge/FilmZoneLASD/media_w588653028_b1000000_8744.ts?token=2d5eb38f85eedad8546d1ec8387132d3
-#EXTINF:0,MAX UP
-http://31.220.40.117:80/LiveEdge/MaxUPSD/media_w835209877_b1000000_11050.ts?token=e7fee452dcb938d165450c3a78de95ec
-#EXTINF:0,MAX PRIME OESTE
-http://31.220.40.100:80/LiveEdge/MaxPrime2LASD/media_w842298862_b1000000_32201.ts?token=f8d401037ea12af605d9748663e7f38e
-#EXTINF:0,GOLDEN PREMIER 1
-http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/media_w707689845_b1000000_4291.ts?token=59ccb0c6bbf4f7ce9e034f53eb72b7a5
-#EXTINF:0,MAX
-http://31.220.40.115:80/LiveEdge/MAXLASD/media_w222310879_b1000000_32069.ts?token=c6740c705ad52e7ae8cfe96f6672e20a
 #EXTINF:-1,PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:0,ATV HD
