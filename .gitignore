@@ -117,13 +117,13 @@ http://31.220.40.119:80/LiveEdge/StudioUniversalSD/chunklist_w1154690802_b100000
 #EXTINF:0,AMC
 http://31.220.40.121/LiveEdge/AMCLASD/chunklist_w464055658_b1000000.m3u8?token=6c68f21f63581643a22d37a620a94aea
 #EXTINF:0,Space
-http://31.220.40.116:80/LiveEdge/SpaceLA/playlist.m3u8?token=5fec72a3f0d9d29a3c02308c66fc550f
+http://31.220.40.118:80/LiveEdge/SpaceLA/media_w1477960738_b1000000_11144.ts?token=d81449ed615f74764aaa7487f107af6f
 #EXTINF:0,FILM ZONE
-http://31.220.41.103:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=141cc0f48a2821ff5e1f4404da9f89da
+http://31.220.41.102:80/LiveEdge/FilmZoneLASD/media_w588653028_b1000000_8744.ts?token=2d5eb38f85eedad8546d1ec8387132d3
 #EXTINF:0,MAX UP
-http://31.220.40.118:80/LiveEdge/MaxUPSD/media_w520671828_b1000000_10785.ts?token=8d9df2d68bfd6ce012ce7a1a58db738f
+http://31.220.40.117:80/LiveEdge/MaxUPSD/media_w835209877_b1000000_11050.ts?token=e7fee452dcb938d165450c3a78de95ec
 #EXTINF:0,MAX PRIME OESTE
-http://31.220.40.121:80/LiveEdge/MaxPrime2LASD/media_w294686145_b1000000_32123.ts?token=bf3805794a771900b3d125b9ffea2725
+http://31.220.40.100:80/LiveEdge/MaxPrime2LASD/media_w842298862_b1000000_32201.ts?token=f8d401037ea12af605d9748663e7f38e
 #EXTINF:0,GOLDEN PREMIER 1
 http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/media_w707689845_b1000000_4291.ts?token=59ccb0c6bbf4f7ce9e034f53eb72b7a5
 #EXTINF:0,MAX
