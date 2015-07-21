@@ -123,11 +123,11 @@ http://31.220.41.103:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=141cc0f48a2821
 #EXTINF:0,MAX UP
 http://31.220.40.118:80/LiveEdge/MaxUPSD/media_w520671828_b1000000_10785.ts?token=8d9df2d68bfd6ce012ce7a1a58db738f
 #EXTINF:0,MAX PRIME OESTE
-http://31.220.41.102/LiveEdge/MaxPrime2LASD/chunklist_w261308642_b1000000.m3u8?token=8e5c395edf8032acbfcffe86d77601b1
+http://31.220.40.121:80/LiveEdge/MaxPrime2LASD/media_w294686145_b1000000_32123.ts?token=bf3805794a771900b3d125b9ffea2725
 #EXTINF:0,GOLDEN PREMIER 1
-http://31.220.41.102:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=8d7528fc49def684919f2110aa1b9128
+http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/media_w707689845_b1000000_4291.ts?token=59ccb0c6bbf4f7ce9e034f53eb72b7a5
 #EXTINF:0,MAX
-http://31.220.40.115/LiveEdge/MAXLASD/chunklist_w577652109_b1000000.m3u8?token=768538edc2f1d7206d34211200ea24fa
+http://31.220.40.115:80/LiveEdge/MAXLASD/media_w222310879_b1000000_32069.ts?token=c6740c705ad52e7ae8cfe96f6672e20a
 #EXTINF:-1,PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:0,ATV HD
