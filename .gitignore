@@ -77,116 +77,14 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:0,--Cable--
 http://separador.m3u
-#EXTINF:0,UNIVERSAL CHANNEL
-http://31.220.40.108:80/LiveEdge/UniversalLASD/chunklist_w1464003153_b1000000.m3u8?token=8d7c5de6388686a1658f8082bf64e9d8
+#EXTINF:-1,TVE Internacional America
+http://31.220.40.121:80/LiveEdge/TVELASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25 
 #EXTINF:-1,LATINO ULTRA CINE HD 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:0,CINE DINAMITA
-http://31.220.40.105:80/LiveEdge/CineDinamitaLA/chunklist_w574881102_b1000000.m3u8?token=3ed0a445a499720b6351b8c40cbccb61
-#EXTINF:0,CINE LATINO
-http://31.220.41.107:80/LiveEdge/CineLatinoSD/chunklist_w1347372946_b1000000.m3u8?token=8e460b6b653f46d40d11f6d7bac9ee9f
-#EXTINF:0,GOLDEN HD
-http://31.220.40.118:80/LiveEdge/GoldenHD/chunklist_w335016161_b1000000.m3u8?token=2c0b72c828be14d9a1c75f644b84ed89
-#EXTINF:0,GOLDEN MULTIPLEX
-http://31.220.41.103:80/LiveEdge/GoldenMPLXLA/chunklist_w57452533_b1000000.m3u8?token=2638dba5ee625212deeba49036706039
-#EXTINF:0,GOLDEN EDGE
-http://31.220.40.115:80/LiveEdge/GoldenEdgeLA/chunklist_w1480485276_b1000000.m3u8?token=929ec927c228591ab404fa08594324b7
-#EXTINF:0,GOLDEN PREMIER
-http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1793051384_b1000000.m3u8?token=8be5ca9caa4d3fb49720ca717c4ac1e8
-#EXTINF:0,SUNDANCE CHANNEL
-http://31.220.40.118:80/LiveEdge/SundanceLA/chunklist_w602719905_b1000000.m3u8?token=36e26ea114db6b510a13124d5c6b8019
-#EXTINF:0,CINE CANAL
-http://31.220.40.100:80/LiveEdge/CineCanalLA/chunklist_w1784075099_b1000000.m3u8?token=b24354ce810f19213c721b015b550bf2
-#EXTINF:0,CINE MAX
-http://31.220.40.121:80/LiveEdge/CinemaxLASD/chunklist_w1710792558_b1000000.m3u8?token=a36dcc0a1a7d2389fd7889014068bbf0
-#EXTINF:0,TNT SERIES
-http://31.220.40.117:80/LiveEdge/infinitoSD/chunklist_w1759880391_b1000000.m3u8?token=2160b38b0b71fd145ccab7bcbda44066
-#EXTINF:0,SPACE
-http://31.220.40.105:80/LiveEdge/SpaceLA/chunklist_w546426764_b1000000.m3u8?token=61563473d72f8271e98c45417e024656
-#EXTINF:0,AMC
-http://31.220.40.121:80/LiveEdge/AMCLASD/chunklist_w1473933803_b1000000.m3u8?token=988f4a28b02e63d9b93deb260434ea57
-#EXTINF:0,STUDIO UNIVERSAL
-http://31.220.40.123:80/LiveEdge/StudioUniversalSD/chunklist_w218386954_b1000000.m3u8?token=ab8571481c53e22d5a6b16f1e91843b3
-#EXTINF:0,I-SAT
-http://31.220.40.117:80/LiveEdge/ISATLA/chunklist_w945101161_b1000000.m3u8?token=50d2981b81bcc3e14fc0fc9c9a1a03b5
-#EXTINF:0,FILM ZONE
-http://31.220.41.103:80/LiveEdge/FilmZoneLASD/chunklist_w1570361170_b1000000.m3u8?token=1a49dfb6f6c5e82e6bb04a6bcd0e63b7
-#EXTINF:0,FOX
-http://31.220.40.118:80/LiveEdge/FOXHDLA/chunklist_w1446113698_b1000000.m3u8?token=94bcf9185b0db7f35add680f9b0463e4
-#EXTINF:0,FOX 1 ESTE
-http://31.220.40.118:80/LiveEdge/FOX1LASD/chunklist_w1589278861_b1000000.m3u8?token=7f4da852c64840b30b64736a7c94f26f
-#EXTINF:0,FOX 1 OESTE
-http://31.220.40.117:80/LiveEdge/FOX1OesteLASD/chunklist_w1504036486_b1000000.m3u8?token=f8eb9516b9c4c6f5478339dd1ad512fe
-#EXTINF:0,FOX FAMILY
-http://31.220.40.100:80/LiveEdge/FOXFamilyLASD/chunklist_w1122461405_b1000000.m3u8?token=85dba04b7025694f096cda63f25b8448
-#EXTINF:0,FOX COMEDY
-http://31.220.41.111:80/LiveEdge/FOXComedyLASD/chunklist_w899729133_b1000000.m3u8?token=5b8eac826c19df63f411e115d082df8e
-#EXTINF:0,FOX CINEMA
-http://31.220.41.107:80/LiveEdge/FoxCinemaSD/chunklist_w1923249003_b1000000.m3u8?token=9f9a81f25c271549f8049665f9f9c238
-#EXTINF:0,FOX ACTION ESTE
-http://31.220.41.107:80/LiveEdge/FOXACTIONLASD/chunklist_w1884896834_b1000000.m3u8?token=6e5166226ded02bbc87ef0bd8fdff026
-#EXTINF:0,FOX ACTION OESTE
-http://31.220.41.103:80/LiveEdge/FOXActionOesteLASD/chunklist_w379664679_b1000000.m3u8?token=512b9f8fe2b317dd96d67d0a46b8a195
-#EXTINF:0,FOX MOVIES
-http://31.220.41.107:80/LiveEdge/FOXMoviesLASD/chunklist_w1777286324_b1000000.m3u8?token=c1e9e3c04ca6b594acbbd1b036d4c88d
-#EXTINF:0,FOX CLASSICS
-http://31.220.40.123:80/LiveEdge/FOXClassicsLASD/chunklist_w117438187_b1000000.m3u8?token=cb0b719dc6ecad1604b5c3467ecdfeeb
-#EXTINF:0,HBO
-http://31.220.41.107:80/LiveEdge/HBOLASD/chunklist_w1352041562_b1000000.m3u8?token=248b67539516b495280ae01fc63f273c
-#EXTINF:0,HBO PLUS ESTE
-http://31.220.40.108:80/LiveEdge/HBOPlusLASD/chunklist_w1993395259_b1000000.m3u8?token=3fe071911a8f116a138bb63d967fa86a
-#EXTINF:0,HBO FAMILY
-http://31.220.40.121:80/LiveEdge/HBOFamilyLASD/chunklist_w1445000281_b1000000.m3u8?token=cdc46691dd5a659355c92f0258d30b55
-#EXTINF:0,HBO SIGNATURE
-http://31.220.40.115:80/LiveEdge/HBOSignatureLASD/chunklist_w1330173553_b1000000.m3u8?token=0994880d3b2113df052f1431213379d7
-#EXTINF:0,MAX UP
-http://31.220.40.119:80/LiveEdge/MaxUPSD/chunklist_w1186656_b1000000.m3u8?token=fa37f3f69c1f31bb9006c8cd54dba383
-#EXTINF:0,MAX
-http://31.220.40.115:80/LiveEdge/GoldenPremier1LA/chunklist_w1793051384_b1000000.m3u8?token=8be5ca9caa4d3fb49720ca717c4ac1e8
 #EXTINF:0,DW
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1,PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:0,DISCOVERY TEATHER
-http://31.220.40.117:80/LiveEdge/DiscoveryenEspanolHD/chunklist_w299323274_b1000000.m3u8?token=12c8f49a87a67722b6a2f6ee8ef258c9
-#EXTINF:-1 group-title="Musical",.: DEPORTES :.
-http://?
-#EXTINF:0,UFC NETWORK
-http://31.220.40.117:80/LiveEdge/UFCNetworkLA/chunklist_w971308291_b1000000.m3u8?token=d32fef9c67874786e5e42e4da2026f63
-#EXTINF:0,SKY SPORT 1
-http://31.220.40.100:80/LiveEdge/skysp1.stream/chunklist_w59738225_b1000000.m3u8?token=9b14b30e6c945db5ce7b5c9376e47007
-#EXTINF:-1,CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:0,CDO HD
-http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
-#EXTINF:0,ESPN HD
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0,ESPN 2
-http://31.220.41.103:80/LiveEdge/ESPN2LASD/chunklist_w1230742590_b1000000.m3u8?token=0fb38c27135e01b3715899e3ea3afc80
-#EXTINF:0,ESPN 3
-http://31.220.40.121:80/LiveEdge/ESPN3LASD/chunklist_w1780267784_b1000000.m3u8?token=8c6409daa1a862238c93d4def3e296b7
-#EXTINF:0,Fox Sports
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0,Fox SPORTS 2
-http://31.220.41.111:80/LiveEdge/FoxSports2SD/chunklist_w474476861_b1000000.m3u8?token=517a859b90e8babd095f3c4378daa676
-#EXTINF:0,Fox SPORTS 3
-http://31.220.41.103:80/LiveEdge/FoxSports3SD/chunklist_w1578780694_b1000000.m3u8?token=668e84bc010fcd64accea6d2a1b57a3e
-#EXTINF:0,PLANETA FUTBOL
-http://31.220.40.121:80/LiveEdge/PlanetaFutbolLA/chunklist_w104464988_b1000000.m3u8?token=a6b2fc8cd233521e95465194e4707554
-#EXTINF:0,GolTV USA 1080p
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
-#EXTINF:0,GolTV USA 720p
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
-#EXTINF:0,GolTV USA 480p
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
-#EXTINF:0,BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:0,BeIN Sport 2 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:0,Azteca 7 HD Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-#EXTINF:0,Azteca 7 Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
 #EXTINF:0,ATV HD
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
 #EXTINF:0,Canal 26 HD
@@ -219,6 +117,31 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0,anime en español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 group-title="Musical",.: DEPORTES :.
+http://?
+#EXTINF:-1,SUPERLIGSPOR
+http://5.196.123.19:8082/superlig
+#EXTINF:0,Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:1,Fight  
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0,CDO HD
+http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
+#EXTINF:0,ESPN HD
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0,Fox Sports
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0,Azteca 7 HD Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+#EXTINF:0,Azteca 7 Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
+
 #EXTINF:-1 group-title="Musical",.: MUSICALES :.
 http://?
 #EXTINF:0,VEVO 1 HD Pop
