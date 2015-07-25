@@ -182,6 +182,25 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0,--PELICULAS--
+#EXTINF:-1,MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF:-1,FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+#EXTINF:-1,INDESTRUCTIBLES 3
+https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+#EXTINF:-1,FOCUS
+https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+#EXTINF:-1,RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+#EXTINF:-1,ROBOCOP
+https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:-1,DESTINO JUPITER
+https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
+#EXTINF:-1,ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:-1,ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp
 #EXTINF:-1 group-title="adultos xxx",.: ADULTOS XXX :.
 http://?
 #EXTINF:-1,PRIVATE
