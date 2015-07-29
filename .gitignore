@@ -77,8 +77,16 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:0,--Cable--
 http://separador.m3u
+#EXTINF:0,anime en español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,Disney XD Channel
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,RAXA TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
 #EXTINF:-1,TVE Internacional America
 http://31.220.40.121:80/LiveEdge/TVELASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25 
+#EXTINF:-1,MARBELLHA TV
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
 #EXTINF:-1,LATINO ULTRA CINE HD 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:0,DW
@@ -115,10 +123,16 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 #EXTINF:0,TVE 24 Horas
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0,anime en español
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLA FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1,CDN SPORT MAX
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8?BRASILIPTV
+#EXTINF:-1, SPORT TV
+http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,SUPERLIGSPOR
