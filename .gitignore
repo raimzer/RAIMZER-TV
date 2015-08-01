@@ -129,6 +129,14 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
+#EXTINF:-1,LIGA BBVA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
+#EXTINF:-1,Ligue 1 (France)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/120.m3u8
+#EXTINF:-1,LIVERPOOL TV HD
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/115.m3u8
+#EXTINF:-1,LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTINF:-1, CHELSEA TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
 #EXTINF:-1,Bundesliga
@@ -139,6 +147,12 @@ http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SEVILLA FC
 rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1, BARCELONA TV HD
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
+#EXTINF:-1,MANCHESTER CITY TV HD
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
+#EXTINF:-1, SPORT TV AMERICAS
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,CDN SPORT MAX
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8?BRASILIPTV
 #EXTINF:-1, SPORT TV
