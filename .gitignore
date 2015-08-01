@@ -129,6 +129,10 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
+#EXTINF:-1, CHELSEA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+#EXTINF:-1,Bundesliga
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/99.m3u8
 #EXTINF:0, ESPN
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,REAL MADRID TV
