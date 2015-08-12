@@ -79,7 +79,9 @@ http://?
 http://iphone-streaming.ustream.tv/uhls/20634165/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0,FOX
+#EXTINF:0,CINEMAX
+http://31.220.41.111:80/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
+#EXTINF:0,I SAT
 http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
 #EXTINF:0,AXN
 http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
@@ -101,6 +103,52 @@ http://31.220.41.111:80/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
 #EXTINF:0,E!
 http://31.220.41.111:80/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
+#EXTINF:0,SYFY
+http://31.220.41.111:80/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
+#EXTINF:0,MUNDO FOX
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
+#EXTINF:0,FOX LIFE
+http://31.220.41.111:80/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
+#EXTINF:0,TNT SERIES
+http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/playlist.m3u8?token=
+#EXTINF:0,GLITZ
+http://31.220.41.111:80/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
+#EXTINF:0,TRUTV
+http://31.220.41.111:80/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
+#EXTINF:0,TELEMUNDO INTERNACIONAL
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/TelemundoSD/playlist.m3u8?token=
+#EXTINF:0,Telemundo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4417
+#EXTINF:0,TBS VERY FUNNY
+http://31.220.41.111:80/LiveEdgeTesting/TBSLASD/playlist.m3u8?token=
+#EXTINF:0,EUROPA EUROPA
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/EuropaEuropaLA/chunklist_w782406008.m3u8?token=
+#EXTINF:0,EUROCHANNEL
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/EurochannelLA/chunklist_w60989424.m3u8?token=
+#EXTINF:0,FILM & ARTS
+http://31.220.41.111:1935/LiveEdgeTesting/FilmArtsLA/playlist.m3u8?token=
+#EXTINF:0,DISNEY CHANNEL
+http://31.220.41.111:/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
+#EXTINF:0,CARTOON NETWORK
+http://31.220.41.111:80/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
+#EXTINF:0,NICK
+http://31.220.41.111:80/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
+#EXTINF:0,DISCOVERY KIDS
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
+#EXTINF:0,DISNEY XD
+http://201.161.59.5/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,BOOMERANG
+http://31.220.41.111/LiveEdgeTesting/BoomerangLA/playlist.m3u8?token=
+#EXTINF:0,DISNEY JR
+http://31.220.41.111:80/LiveEdgeTesting/DisneyJrLASD/playlist.m3u8?token=
+#EXTINF:0,BABY TV
+http://31.220.41.111/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
+#EXTINF:0,NICK JR
+http://31.220.41.111:80/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
+#EXTINF:0,CBEEBIES
+http://31.220.41.111:80/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
+#EXTINF:0,TOONCAST
+http://31.220.41.111/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
 #EXTINF:0,anime en español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Disney XD Channel
