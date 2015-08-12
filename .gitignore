@@ -77,10 +77,30 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://?
 #EXTINF:-1,DRAGON BALL Y PELICULAS
 http://iphone-streaming.ustream.tv/uhls/20634165/streams/live/iphone/playlist.m3u8
-#EXTINF:0, Antena 3 HD
+#EXTINF:0,Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,FOX
+http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
+#EXTINF:0,AXN
+http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
+#EXTINF:0,SONY
+http://31.220.41.111:80/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
+#EXTINF:0,FX
+http://31.220.41.111:80/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
+#EXTINF:0,NATGEO
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
+#EXTINF:0,DISCOVERY THEATHER
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
+#EXTINF:0,DISCOVERY
+http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
+#EXTINF:0,DISCOVERY WORLD
+http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
+#EXTINF:0,HISTORY CHANNEL
+http://31.220.41.111:80/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
+#EXTINF:-,ANIMAL PLANET
+http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
+#EXTINF:0,E!
+http://31.220.41.111:80/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
 #EXTINF:0,anime en español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Disney XD Channel
