@@ -107,7 +107,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TELEANTIOQUIA HD T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1,www.FreeIPTV.ga I+D
+#EXTINF:0,I+D
 http://stalker.darkuzdev.cf:8080/streamer/153.m3u8
 #EXTINF:-1,www.FreeIPTV.ga INFINITO
 http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
