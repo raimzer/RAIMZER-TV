@@ -75,154 +75,12 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:0,--Cable--
 http://?
-#EXTINF:0,STUDIO UNIVERSAL
-http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/playlist.m3u8?token=
-#EXTINF:-0,GOLDEN MULTIPLEX
-http://31.220.41.111:80/LiveEdgeTesting/GoldenMPLXLA/playlist.m3u8?token=
-#EXTINF:-0,GOLDEN HD
-http://31.220.41.111:80/LiveEdgeTesting/GoldenHD/playlist.m3u8?token=
-#EXTINF:-0,GOLDEN EDGE
-http://31.220.41.111:80/LiveEdgeTesting/GoldenEdgeLA/playlist.m3u8?token=
-#EXTINF:-0,608-FILM ZONE
-http://31.220.41.111:80/LiveEdgeTesting/FilmZoneLASD/playlist.m3u8?token=
-#EXTINF:-0,CINEMA DINAMITA
-http://31.220.41.111:80/LiveEdgeTesting/CineDinamitaLA/playlist.m3u8?token=
-#EXTINF:-0,CINELATINO
-http://31.220.41.111:80/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
-#EXTINF:-0,SPACE
-http://31.220.41.111:80/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
-#EXTINF:-0,CINECANAL
-http://31.220.41.111:80/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
-#EXTINF:-0,CINEMAX
-http://31.220.41.111:80/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
-#EXTINF:-0,CANAL DHE
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-0,PARAMOUNT
-http://31.220.41.111:80/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
-#EXTINF:0,SUNDANCE
-http://31.220.41.111:80/LiveEdgeTesting/SundanceLA/playlist.m3u8?token=
-#EXTINF:0,HBO
-http://66.90.93.26:1935/live/canal041.stream/chunklist_w1405770527.m3u8?username=fher1&password=iptv
-#EXTINF:0,HBO 2
-http://31.220.41.107:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
-#EXTINF:0,HBO FAMILY
-http://31.220.40.108:80/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
-#EXTINF:0,HBO PLUS
-http://31.220.40.100:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
-#EXTINF:0,HBO SIGNATURE
-http://31.220.40.100:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
-#EXTINF:0,MAX
-http://31.220.41.111:80/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
-#EXTINF:0,MAX PRIME ESTE
-http://31.220.41.111:80/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
-#EXTINF:0,MAX PRIME OESTE
-http://31.220.40.108:80/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
-#EXTINF:0,FOX 1
-http://31.220.41.111:80/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
-#EXTINF:0,FOX ACTION
-http://31.220.41.111:80/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
-#EXTINF:0,FOX MOVIES
-http://31.220.41.111:80/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
-#EXTINF:0,FOX FAMILY
-http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
-#EXTINF:0,FOX CLASSICS
-http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
-#EXTINF:0,FOX CINEMA
-http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
-#EXTINF:0,FOX COMEDY
-http://31.220.41.111:80/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
-#EXTINF:0,GOLDEN PREMIER 1
-http://31.220.40.108:80/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
-#EXTINF:0,GOLDEN PREMIER 2
-http://31.220.41.103:80/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
-#EXTINF:0,Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0,CINEMAX
-http://31.220.41.111:80/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
-#EXTINF:0,I SAT
-http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
-#EXTINF:0,AXN
-http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
-#EXTINF:0,SONY
-http://31.220.41.111:80/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
-#EXTINF:0,FX
-http://31.220.41.111:80/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
-#EXTINF:0,NATGEO
-http://31.220.41.111:80/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
-#EXTINF:0,DISCOVERY THEATHER
-http://31.220.41.111:80/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
-#EXTINF:0,DISCOVERY
-http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
-#EXTINF:0,DISCOVERY WORLD
-http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
-#EXTINF:0,HISTORY CHANNEL
-http://31.220.41.111:80/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
-#EXTINF:-,ANIMAL PLANET
-http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
-#EXTINF:0,E!
-http://31.220.41.111:80/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
-#EXTINF:0,SYFY
-http://31.220.41.111:80/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
-#EXTINF:0,MUNDO FOX
-http://31.220.41.111:80/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
-#EXTINF:0,FOX LIFE
-http://31.220.41.111:80/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
-#EXTINF:0,TNT SERIES
-http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/playlist.m3u8?token=
-#EXTINF:0,GLITZ
-http://31.220.41.111:80/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
-#EXTINF:0,TRUTV
-http://31.220.41.111:80/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
-#EXTINF:0,TELEMUNDO INTERNACIONAL
-http://31.220.41.111:80/LiveEdgeTesting/_definst_/TelemundoSD/playlist.m3u8?token=
-#EXTINF:0,Telemundo
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4417
-#EXTINF:0,TBS VERY FUNNY
-http://31.220.41.111:80/LiveEdgeTesting/TBSLASD/playlist.m3u8?token=
-#EXTINF:0,EUROPA EUROPA
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/EuropaEuropaLA/chunklist_w782406008.m3u8?token=
-#EXTINF:0,EUROCHANNEL
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/EurochannelLA/chunklist_w60989424.m3u8?token=
-#EXTINF:0,FILM & ARTS
-http://31.220.41.111:1935/LiveEdgeTesting/FilmArtsLA/playlist.m3u8?token=
-#EXTINF:0,DISNEY CHANNEL
-http://31.220.41.111:/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
-#EXTINF:0,CARTOON NETWORK
-http://31.220.41.111:80/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
-#EXTINF:0,NICK
-http://31.220.41.111:80/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
-#EXTINF:0,DISCOVERY KIDS
-http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
-#EXTINF:0,DISNEY XD
-http://201.161.59.5/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0,BOOMERANG
-http://31.220.41.111/LiveEdgeTesting/BoomerangLA/playlist.m3u8?token=
-#EXTINF:0,DISNEY JR
-http://31.220.41.111:80/LiveEdgeTesting/DisneyJrLASD/playlist.m3u8?token=
-#EXTINF:0,BABY TV
-http://31.220.41.111/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
-#EXTINF:0,NICK JR
-http://31.220.41.111:80/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
-#EXTINF:0,CBEEBIES
-http://31.220.41.111:80/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
-#EXTINF:0,TOONCAST
-http://31.220.41.111/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
-#EXTINF:0,anime en español
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,Disney XD Channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,RAXA TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
-#EXTINF:-1,TVE Internacional America
-http://31.220.40.121:80/LiveEdge/TVELASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25 
-#EXTINF:-1,MARBELLHA TV
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
-#EXTINF:-1,LATINO ULTRA CINE HD 
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:0,DW
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
-#EXTINF:-1,PELICULAS
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:0,MEGA HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u
+#EXTINF:0,CANAL+ HD
+http://212.51.156.151:3015
+#EXTINF:0,D+ Calle 13
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1363.ts
 #EXTINF:0,ATV HD
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
 #EXTINF:0,Canal 26 HD
@@ -241,92 +99,261 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:0,HispanTV
 http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
-#EXTINF:0, VIVE
-mms://difusion.cantv.net/vhost-covetel_live
-#EXTINF:0,MEGA HD
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:0,AmericaTV HD
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
 #EXTINF:-1,PROYECTO 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:0,La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 #EXTINF:0,TVE 24 Horas
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TELEANTIOQUIA HD T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1,www.FreeIPTV.ga I+D
+http://stalker.darkuzdev.cf:8080/streamer/153.m3u8
+#EXTINF:-1,www.FreeIPTV.ga INFINITO
+http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
+#EXTINF:-1,www.FreeIPTV.ga GOURMET
+http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
+#EXTINF:-1,www.FreeIPTV.ga GLITZ
+http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX LIFE
+http://stalker.darkuzdev.cf:8080/streamer/169.m3u8
+#EXTINF:-1,www.FreeIPTV.ga DISTRITO
+http://stalker.darkuzdev.cf:8080/streamer/173.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TBS
+http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
+#EXTINF:-1,www.FreeIPTV.ga CASA
+http://stalker.darkuzdev.cf:8080/streamer/181.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TVNOVELAS
+http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
+#EXTINF:-1,www.FreeIPTV.ga HTV
+http://stalker.darkuzdev.cf:8080/streamer/473.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Discovery kids
+http://stalker.darkuzdev.cf:8080/streamer/193.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Babies
+http://stalker.darkuzdev.cf:8080/streamer/197.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Disney Junior
+http://stalker.darkuzdev.cf:8080/streamer/201.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Nick Jr
+http://stalker.darkuzdev.cf:8080/streamer/205.m3u8
+#EXTINF:-1,www.FreeIPTV.ga DISNEY XD hd
+http://stalker.darkuzdev.cf:8080/streamer/209.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Nick HD
+http://stalker.darkuzdev.cf:8080/streamer/213.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Nick
+http://stalker.darkuzdev.cf:8080/streamer/217.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Cartoon Network
+http://stalker.darkuzdev.cf:8080/streamer/221.m3u8
+#EXTINF:-1,www.FreeIPTV.ga XD
+http://stalker.darkuzdev.cf:8080/streamer/225.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Boomerang
+http://stalker.darkuzdev.cf:8080/streamer/229.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TIIN
+http://stalker.darkuzdev.cf:8080/streamer/233.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Tooncast
+http://stalker.darkuzdev.cf:8080/streamer/237.m3u8
+#EXTINF:-1,www.FreeIPTV.ga NICK TOONS
+http://stalker.darkuzdev.cf:8080/streamer/469.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Theater HD
+http://stalker.darkuzdev.cf:8080/streamer/241.m3u8
+#EXTINF:-1,www.FreeIPTV.ga f Discovery
+http://stalker.darkuzdev.cf:8080/streamer/257.m3u8
+#EXTINF:-1,www.FreeIPTV.ga History HD
+http://stalker.darkuzdev.cf:8080/streamer/245.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Nat Geo Wild
+http://stalker.darkuzdev.cf:8080/streamer/249.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TLC
+http://stalker.darkuzdev.cf:8080/streamer/253.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Animal Planet
+http://stalker.darkuzdev.cf:8080/streamer/261.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Home and Health
+http://stalker.darkuzdev.cf:8080/streamer/265.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Nat Geo
+http://stalker.darkuzdev.cf:8080/streamer/269.m3u8
+#EXTINF:-1,www.FreeIPTV.ga BIO
+http://stalker.darkuzdev.cf:8080/streamer/273.m3u8
+#EXTINF:-1,www.FreeIPTV.ga SCI
+http://stalker.darkuzdev.cf:8080/streamer/277.m3u8
+#EXTINF:-1,www.FreeIPTV.ga CIVILIZATION
+http://stalker.darkuzdev.cf:8080/streamer/281.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TURBO
+http://stalker.darkuzdev.cf:8080/streamer/285.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TLC
+http://stalker.darkuzdev.cf:8080/streamer/289.m3u8
+#EXTINF:-1,www.FreeIPTV.ga WOBI
+http://stalker.darkuzdev.cf:8080/streamer/293.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX HD
+http://stalker.darkuzdev.cf:8080/streamer/297.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX+ Accion
+http://stalker.darkuzdev.cf:8080/streamer/301.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX+ Hollywood
+http://stalker.darkuzdev.cf:8080/streamer/305.m3u8
+#EXTINF:-1,www.FreeIPTV.ga CINECANL HD
+http://stalker.darkuzdev.cf:8080/streamer/309.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TNT HD
+http://stalker.darkuzdev.cf:8080/streamer/313.m3u8
+#EXTINF:-1,www.FreeIPTV.ga GOLDEN HD
+http://stalker.darkuzdev.cf:8080/streamer/317.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FILMZONE HD
+http://stalker.darkuzdev.cf:8080/streamer/321.m3u8
+#EXTINF:-1,www.FreeIPTV.ga DE PELICULA HD
+http://stalker.darkuzdev.cf:8080/streamer/325.m3u8
+#EXTINF:-1,www.FreeIPTV.ga MGM HD
+http://stalker.darkuzdev.cf:8080/streamer/329.m3u8
+#EXTINF:-1,www.FreeIPTV.ga SPACE HD
+http://stalker.darkuzdev.cf:8080/streamer/333.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX+ MUNDO
+http://stalker.darkuzdev.cf:8080/streamer/337.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX+ FAMILY
+http://stalker.darkuzdev.cf:8080/streamer/341.m3u8
+#EXTINF:-1,www.FreeIPTV.ga CINECANAL
+http://stalker.darkuzdev.cf:8080/streamer/349.m3u8
+#EXTINF:-1,www.FreeIPTV.ga CINEMAX
+http://stalker.darkuzdev.cf:8080/streamer/353.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TNT
+http://stalker.darkuzdev.cf:8080/streamer/357.m3u8
+#EXTINF:-1,www.FreeIPTV.ga EDGE
+http://stalker.darkuzdev.cf:8080/streamer/361.m3u8
+#EXTINF:-1,www.FreeIPTV.ga MGM
+http://stalker.darkuzdev.cf:8080/streamer/365.m3u8
+#EXTINF:-1,www.FreeIPTV.ga AMC
+http://stalker.darkuzdev.cf:8080/streamer/368.m3u8
+#EXTINF:-1,www.FreeIPTV.ga SPACE
+http://stalker.darkuzdev.cf:8080/streamer/369.m3u8
+#EXTINF:-1,www.FreeIPTV.ga STUDIO UNIVERSAL
+http://stalker.darkuzdev.cf:8080/streamer/373.m3u8
+#EXTINF:-1,www.FreeIPTV.ga ISAT
+http://stalker.darkuzdev.cf:8080/streamer/377.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TCM
+http://stalker.darkuzdev.cf:8080/streamer/381.m3u8
+#EXTINF:-1,www.FreeIPTV.ga ESPN HD
+http://stalker.darkuzdev.cf:8080/streamer/389.m3u8
+#EXTINF:-1,www.FreeIPTV.ga ESPN
+http://stalker.darkuzdev.cf:8080/streamer/405.m3u8
+#EXTINF:-1,www.FreeIPTV.ga ESPN 2
+http://stalker.darkuzdev.cf:8080/streamer/409.m3u8
+#EXTINF:-1,www.FreeIPTV.ga ESPN 3
+http://stalker.darkuzdev.cf:8080/streamer/393.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX SPORT
+http://stalker.darkuzdev.cf:8080/streamer/397.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX SPORT 2
+http://stalker.darkuzdev.cf:8080/streamer/401.m3u8
+#EXTINF:-1,www.FreeIPTV.ga MTV LIVE
+http://stalker.darkuzdev.cf:8080/streamer/429.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TELEHIT HD
+http://stalker.darkuzdev.cf:8080/streamer/433.m3u8
+#EXTINF:-1,www.FreeIPTV.ga VH1 HD
+http://stalker.darkuzdev.cf:8080/streamer/437.m3u8
+#EXTINF:-1,www.FreeIPTV.ga MTV
+http://stalker.darkuzdev.cf:8080/streamer/441.m3u8
+#EXTINF:-1,www.FreeIPTV.ga RITMOSON
+http://stalker.darkuzdev.cf:8080/streamer/445.m3u8
+#EXTINF:-1,www.FreeIPTV.ga BANDAMAX
+http://stalker.darkuzdev.cf:8080/streamer/449.m3u8
+#EXTINF:-1,www.FreeIPTV.ga MILENIO
+http://stalker.darkuzdev.cf:8080/streamer/417.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TVE
+http://stalker.darkuzdev.cf:8080/streamer/421.m3u8
+#EXTINF:-1,www.FreeIPTV.ga BLOOMERG
+http://stalker.darkuzdev.cf:8080/streamer/461.m3u8
+#EXTINF:-1,www.FreeIPTV.ga STV
+http://stalker.darkuzdev.cf:8080/streamer/77.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Azteca Noticias
+http://stalker.darkuzdev.cf:8080/streamer/1.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Azteca 7
+http://stalker.darkuzdev.cf:8080/streamer/5.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Novelas
+http://stalker.darkuzdev.cf:8080/streamer/9.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Azteca 7 HD
+http://stalker.darkuzdev.cf:8080/streamer/13.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Trece HD
+http://stalker.darkuzdev.cf:8080/streamer/17.m3u8
+#EXTINF:-1,www.FreeIPTV.ga 40 HD
+http://stalker.darkuzdev.cf:8080/streamer/21.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Canal 2 HD
+http://stalker.darkuzdev.cf:8080/streamer/33.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Canal 5 HD
+http://stalker.darkuzdev.cf:8080/streamer/37.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Canal 2
+http://stalker.darkuzdev.cf:8080/streamer/41.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Foro TV
+http://stalker.darkuzdev.cf:8080/streamer/45.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Once TV
+http://stalker.darkuzdev.cf:8080/streamer/61.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Cadena 3
+http://stalker.darkuzdev.cf:8080/streamer/73.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Formula
+http://stalker.darkuzdev.cf:8080/streamer/82.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX
+http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX HD
+http://stalker.darkuzdev.cf:8080/streamer/86.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Sony
+http://stalker.darkuzdev.cf:8080/streamer/89.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Warner HD
+http://stalker.darkuzdev.cf:8080/streamer/93.m3u8
+#EXTINF:-1,www.FreeIPTV.ga Universal
+http://stalker.darkuzdev.cf:8080/streamer/97.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FX HD
+http://stalker.darkuzdev.cf:8080/streamer/101.m3u8
+#EXTINF:-1,www.FreeIPTV.ga A&E
+http://stalker.darkuzdev.cf:8080/streamer/105.m3u8
+#EXTINF:-1,www.FreeIPTV.ga AXN HD
+http://stalker.darkuzdev.cf:8080/streamer/109.m3u8
+#EXTINF:-1,www.FreeIPTV.ga TRUE HD
+http://stalker.darkuzdev.cf:8080/streamer/113.m3u8
+#EXTINF:-1,www.FreeIPTV.ga COMEDY HD
+http://stalker.darkuzdev.cf:8080/streamer/117.m3u8
+#EXTINF:-1,www.FreeIPTV.ga UNICABLE HD
+http://stalker.darkuzdev.cf:8080/streamer/121.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FOX HD
+http://stalker.darkuzdev.cf:8080/streamer/125.m3u8
+#EXTINF:-1,www.FreeIPTV.ga BBC HD
+http://stalker.darkuzdev.cf:8080/streamer/129.m3u8
+#EXTINF:-1,www.FreeIPTV.ga BBC HD
+http://stalker.darkuzdev.cf:8080/streamer/130.m3u8
+#EXTINF:-1,www.FreeIPTV.ga E! HD
+http://stalker.darkuzdev.cf:8080/streamer/134.m3u8
+#EXTINF:-1,www.FreeIPTV.ga UNIVERSAL
+http://stalker.darkuzdev.cf:8080/streamer/137.m3u8
+#EXTINF:-1,www.FreeIPTV.ga SYFY HD
+http://stalker.darkuzdev.cf:8080/streamer/141.m3u8
+#EXTINF:-1,www.FreeIPTV.ga FX HD
+http://stalker.darkuzdev.cf:8080/streamer/145.m3u8
+
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
-#EXTINF:-0,ESPN
-http://31.220.41.111:80/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
-#EXTINF:-0,ESPN 2
-http://31.220.41.111:80/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
-#EXTINF:-0,ESPN 3
-http://31.220.41.111:80/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
-#EXTINF:-0,FOX SPORTS
-http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-0,FOX SPORTS 2
-http://31.220.41.111:80/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
-#EXTINF:-0,FOX SPORTS 3
-http://31.220.41.111:80/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
-#EXTINF:-0,BEIN SPORTS
-http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
-#EXTINF:-1,LIGA BBVA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
+#EXTINF:0,CDO HD
+http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
+#EXTINF:0,CTH Stadium 1
+http://27.254.149.79/vit2/stadium1new.stream/playlist.m3u8
+#EXTINF:0,CTH Stadium 2
+http://27.254.149.79/vit2/stadium2new.stream/playlist.m3u8
+#EXTINF:0,CTH Stadium 3
+http://27.254.149.79/vit2/stadium3new.stream/playlist.m3u8
+#EXTINF:0,CTH Stadium 4
+http://27.254.149.79/vit2/stadium4new.stream/playlist.m3u8
+#EXTINF:0,CTH Stadium 5
+http://27.254.149.79/vit2/stadium5new.stream/playlist.m3u8
 #EXTINF:0,TDN
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
-#EXTINF:-1,Ligue 1 (France)
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/120.m3u8
-#EXTINF:-1,LIVERPOOL TV HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/115.m3u8
-#EXTINF:-1,LIVERPOOL TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-#EXTINF:-1, CHELSEA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:-1,Bundesliga
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/99.m3u8
-#EXTINF:0, ESPN
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEVILLA FC
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-#EXTINF:-1, BARCELONA TV HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
 #EXTINF:-1,MANCHESTER CITY TV HD
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
 #EXTINF:-1, SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1,CDN SPORT MAX
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8?BRASILIPTV
 #EXTINF:-1, SPORT TV
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,SUPERLIGSPOR
 http://5.196.123.19:8082/superlig
-#EXTINF:0,Football
-http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:1,Fight  
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #EXTINF:-1,EUROSPORT 1 FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:0,CDO HD
-http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
-#EXTINF:0,ESPN HD
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0,Fox Sports
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0,Azteca 7 HD Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-#EXTINF:0,Azteca 7 Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
-#EXTINF:0,BT SPORT 1
-http://usa.01.cdnstreams.in:8081/view/ch08/playlist.m3u8
-#EXTINF:0,BT SPORT 2
-http://usa.01.cdnstreams.in:8081/view/ch14/playlist.m3u8
 #EXTINF:-1,.: MUSICALES :.
 http://?
 #EXTINF:0,VEVO 1 HD Pop
