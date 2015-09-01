@@ -105,25 +105,25 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b102
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
 #EXTINF:0,Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:123,I+D
+#EXTINF:-1,I+D
 http://stalker.darkuzdev.cf:8080/streamer/153.m3u8
-#EXTINF:123,INFINITO
+#EXTINF:-1,INFINITO
 http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
-#EXTINF:123,GOURMET
+#EXTINF:-1,GOURMET
 http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
-#EXTINF:123,GLITZ
+#EXTINF:-1,GLITZ
 http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
-#EXTINF:0,FOX LIFE
+#EXTINF:-1,FOX LIFE
 http://stalker.darkuzdev.cf:8080/streamer/169.m3u8
-#EXTINF:0,DISTRITO
+#EXTINF:0-1,DISTRITO
 http://stalker.darkuzdev.cf:8080/streamer/173.m3u8
-#EXTINF:-1,www.FreeIPTV.ga TBS
+#EXTINF:-1,TBS
 http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
-#EXTINF:0,CASA
+#EXTINF:-1,CASA
 http://stalker.darkuzdev.cf:8080/streamer/181.m3u8
-#EXTINF:0,TVNOVELAS
+#EXTINF:-1,TVNOVELAS
 http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
-#EXTINF:0,HTV
+#EXTINF:-1,HTV
 http://stalker.darkuzdev.cf:8080/streamer/473.m3u8
 #EXTINF:0,Discovery kids
 http://stalker.darkuzdev.cf:8080/streamer/193.m3u8
@@ -171,11 +171,11 @@ http://stalker.darkuzdev.cf:8080/streamer/269.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/273.m3u8
 #EXTINF:0,SCI
 http://stalker.darkuzdev.cf:8080/streamer/277.m3u8
-#EXTINF:-1,www.FreeIPTV.ga CIVILIZATION
+#EXTINF:-1,CIVILIZATION
 http://stalker.darkuzdev.cf:8080/streamer/281.m3u8
-#EXTINF:-1,www.FreeIPTV.ga TURBO
+#EXTINF:-1,TURBO
 http://stalker.darkuzdev.cf:8080/streamer/285.m3u8
-#EXTINF:-1,www.FreeIPTV.ga TLC
+#EXTINF:-1,TLC
 http://stalker.darkuzdev.cf:8080/streamer/289.m3u8
 #EXTINF:-1,www.FreeIPTV.ga WOBI
 http://stalker.darkuzdev.cf:8080/streamer/293.m3u8
@@ -428,23 +428,4 @@ https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
 #EXTINF:-1,ALADDIN
 http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
 #EXTINF:-1,ALADDIN 2 EL RETORNO DE JAFAR
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp
-#EXTINF:-1,.: ADULTOS XXX :.
-http://?
-#EXTINF:-1,PRIVATE
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-0,VENUS
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/VENUSSD/chunklist_w468401834.m3u8?token=
-#EXTINF:-0,SEX XTREME
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/SextremeSD/chunklist_w143111261.m3u8?token=
-#EXTINF:-0,HOT
-http://4.31.30.159:9003
-#EXTINF:-0,XXX NEW
-#EXTINF:-0,PLAYBOY TV
-http://4.31.30.159:9006
-#EXTINF:-1,ASIA1
-http://59.120.43.181:8081
-#EXTINF:-1,XXX Primafila Hot Club 1
-http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/809.ts
-#EXTINF:-1,XXX Primafila Hot Club 2
-http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/811.ts
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
