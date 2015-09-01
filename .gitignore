@@ -75,8 +75,22 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 #EXTINF:0,--Cable--
 http://?
-#EXTINF:0,MEGA HD
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u
+#EXTINF:0,La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1,Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:0,Canal de las Estrellas HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:0,RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0,RT Español HD
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:0,HispanTV
+http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
+#EXTINF:0,TVE 24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:0,CANAL+ HD
 http://212.51.156.151:3015
 #EXTINF:0,D+ Calle 13
@@ -89,31 +103,15 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b1028000_sleng.m3u8
 #EXTINF:0,Orbe 21
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
-#EXTINF:0,Canal de las Estrellas HD
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
 #EXTINF:0,Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,RTVE 24H
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0,RT Espanol HD
-http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
-#EXTINF:0,HispanTV
-http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
-#EXTINF:-1,PROYECTO 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:0,La Sexta HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:0,TVE 24 Horas
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,TELEANTIOQUIA HD T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:0,I+D
+#EXTINF:123,I+D
 http://stalker.darkuzdev.cf:8080/streamer/153.m3u8
-#EXTINF:0,INFINITO
+#EXTINF:123,INFINITO
 http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
-#EXTINF:0,GOURMET
+#EXTINF:123,GOURMET
 http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
-#EXTINF:0,GLITZ
+#EXTINF:123,GLITZ
 http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
 #EXTINF:0,FOX LIFE
 http://stalker.darkuzdev.cf:8080/streamer/169.m3u8
@@ -191,7 +189,7 @@ http://stalker.darkuzdev.cf:8080/streamer/305.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/309.m3u8
 #EXTINF:-1,www.FreeIPTV.ga TNT HD
 http://stalker.darkuzdev.cf:8080/streamer/313.m3u8
-#EXTINF:-1,www.FreeIPTV.ga GOLDEN HD
+#EXTINF:123,GOLDEN HD
 http://stalker.darkuzdev.cf:8080/streamer/317.m3u8
 #EXTINF:-1,www.FreeIPTV.ga FILMZONE HD
 http://stalker.darkuzdev.cf:8080/streamer/321.m3u8
@@ -205,27 +203,27 @@ http://stalker.darkuzdev.cf:8080/streamer/333.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/337.m3u8
 #EXTINF:-1,www.FreeIPTV.ga FOX+ FAMILY
 http://stalker.darkuzdev.cf:8080/streamer/341.m3u8
-#EXTINF:-1,www.FreeIPTV.ga CINECANAL
+#EXTINF:-1,CINECANAL
 http://stalker.darkuzdev.cf:8080/streamer/349.m3u8
-#EXTINF:-1,www.FreeIPTV.ga CINEMAX
+#EXTINF:-1,CINEMAX
 http://stalker.darkuzdev.cf:8080/streamer/353.m3u8
-#EXTINF:-1,www.FreeIPTV.ga TNT
+#EXTINF:-1,TNT
 http://stalker.darkuzdev.cf:8080/streamer/357.m3u8
-#EXTINF:-1,www.FreeIPTV.ga EDGE
+#EXTINF:-1, DGE
 http://stalker.darkuzdev.cf:8080/streamer/361.m3u8
-#EXTINF:-1,www.FreeIPTV.ga MGM
+#EXTINF:-1, MGM
 http://stalker.darkuzdev.cf:8080/streamer/365.m3u8
-#EXTINF:-1,www.FreeIPTV.ga AMC
+#EXTINF:-1,AMC
 http://stalker.darkuzdev.cf:8080/streamer/368.m3u8
-#EXTINF:-1,www.FreeIPTV.ga SPACE
+#EXTINF:-1,SPACE
 http://stalker.darkuzdev.cf:8080/streamer/369.m3u8
-#EXTINF:-1,www.FreeIPTV.ga STUDIO UNIVERSAL
+#EXTINF:-1,STUDIO UNIVERSAL
 http://stalker.darkuzdev.cf:8080/streamer/373.m3u8
-#EXTINF:-1,www.FreeIPTV.ga ISAT
+#EXTINF:-1,ISAT
 http://stalker.darkuzdev.cf:8080/streamer/377.m3u8
-#EXTINF:-1,www.FreeIPTV.ga TCM
+#EXTINF:-1,TCM
 http://stalker.darkuzdev.cf:8080/streamer/381.m3u8
-#EXTINF:-1,www.FreeIPTV.ga ESPN HD
+#EXTINF:-1,ESPN HD
 http://stalker.darkuzdev.cf:8080/streamer/389.m3u8
 #EXTINF:-1,www.FreeIPTV.ga ESPN
 http://stalker.darkuzdev.cf:8080/streamer/405.m3u8
@@ -319,7 +317,6 @@ http://stalker.darkuzdev.cf:8080/streamer/137.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/141.m3u8
 #EXTINF:-1,www.FreeIPTV.ga FX HD
 http://stalker.darkuzdev.cf:8080/streamer/145.m3u8
-
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
 #EXTINF:0,CDO HD
