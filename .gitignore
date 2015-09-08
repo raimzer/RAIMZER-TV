@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,.: CHILE :.
 http://?
+#EXTINF:-1,ATV Valdivia HD
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:0,Ufrovision HD
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 #EXTINF:0,RedTV
@@ -75,14 +77,34 @@ http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,TVO San Vicente
+http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+#EXTINF:-1,Tv 4 Lota
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+
+
 #EXTINF:0,--Cable--
 http://?
+#EXTINF:-1,Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF :-1, MEGA HD ESPAÑA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:-1,Ultra Cine 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF :-1,PELÍCULAS HD LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF :-1, PELÍCULAS DE COMEDIA
+http://flv11.moevideo.net/flv7/tYBScdwFrfwsX2C-_Ajo3A==/api__tVL0gjqo5/35768123_3917650273default/57561.5fe52ae28c0dd567293e9bbd53b6/d3c8281b9d3083fceb9438d515e4dbca_3917650273_g3th412d(lat).mkv.flv?vtype=1
 #EXTINF:-1,Peliculas
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF :-1,PELIS ESPAÑOL
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF :-1, MEGA PELICULAS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?=-1
 #EXTINF:0,La Sexta HD
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF :-1,ANIME TV LATINO
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Teleantioquia HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 #EXTINF:0,Canal de las Estrellas HD
@@ -111,24 +133,15 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b102
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
 #EXTINF:0,Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,ES : Canal  1
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2283.m3u8
-#EXTINF:0,ES : Canal  1 ... 30
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2284.m3u8
-#EXTINF:0,ES : Canal  2
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2285.m3u8
-#EXTINF:0,ES : C  Accion
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2286.m3u8
-#EXTINF:0,ES : C  Comedia
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2287.m3u8
-#EXTINF:0,ES : C  Dcine
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2288.m3u8
-#EXTINF:0,ES : Dcine Español
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2289.m3u8
-#EXTINF:0,ES : Hollywood
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2290.m3u8
-#EXTINF:0,ES : TNT
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2291.m3u8
+#EXTINF:-1,.: ALEMANIA :.
+#EXTINF:-1,Das Neue TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+#EXTINF:-1,Family TV HD
+http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
+#EXTINF:-1,Alex Berlin^
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
+#EXTINF:-1,München TV GERMANY
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 #EXTINF:-1 group-title="Musical",.: DEPORTES :.
 http://?
 #EXTINF:-1,CDF Premium
