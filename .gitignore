@@ -87,12 +87,14 @@ http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0,--Cable--
 http://?
+#EXTINF:-1,Ultra Film 
+http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
+#EXTINF:-1,Ultra Cine 
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF :-1, MEGA HD ESPAÑA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1,Ultra Cine 
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF :-1,PELÍCULAS HD LATINO
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF :-1, PELÍCULAS DE COMEDIA
@@ -158,16 +160,12 @@ http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Arena Sport 2
-http://195.154.226.186:1935/livee/arhd2lsh/playlist.m3u8
-#EXTINF:0,Arena Sport 3
-http://195.154.226.186:1935/livee/arhd3lsh/playlist.m3u8
+#EXTINF:-1,Kazsport ANGLO
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
 #EXTINF:-1, SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0,Sky Sport HD IT
-http://tring-amd-live.tring.tv/out/u/84_107.m3u8
 #EXTINF:0,ESPN UK 
 http://195.154.226.186:1935/livee/espnuklsh/playlist.m3u8 
 #EXTINF:0,Premier sports 
@@ -184,6 +182,8 @@ http://?
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1,Heart Tv HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Film on Tv ANGLO
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:0,VEVO 1 HD Pop
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,USA:VEVO HD 
