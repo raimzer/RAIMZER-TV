@@ -3,8 +3,6 @@
 http://?
 #EXTINF:-1,ETC Tv CHILE
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:-1,Telecanal
-http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1,ATV Antofagasta HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:0,Ufrovision HD
