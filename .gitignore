@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,.: CHILE :.
 http://?
-#EXTINF:-1,ETC Tv CHILE
-http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
 #EXTINF:-1,ATV Antofagasta HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:0,RedTV
@@ -79,6 +77,8 @@ http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0,--Cable--
 http://?
+#EXTINF:-1,Cartoon Network en
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF :-1, MEGA HD ESPAÑA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF :-1,PELÍCULAS HD LATINO
@@ -138,54 +138,50 @@ http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b5
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 #EXTINF:0,--DEPORTES--
 http://?
+#EXTINF:0,SKY DE – BUNDESLIGA HD 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/120.ts
 #EXTINF:0,SPORT LATINO
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:-1,CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:0,CDO HD
 http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
-#EXTINF:0,TDN
-http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
-#EXTINF:-1,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Fox Sports
+#EXTINF:0,Fox Sports
 http://iptv.latino-webtv.com/server1.m3u8?ch=522&cl=3
-#EXTINF:-1,Fox Sports 2
+#EXTINF:0,Fox Sports 2
 http://iptv.latino-webtv.com/server1.m3u8?ch=527&cl=3
-#EXTINF:-1,Fox Sports 3
-http://iptv.latino-webtv.com/server2.m3u8?canal=FoxSports3SD&cm=3806
-#EXTINF:-1,Bein Ñ Sports
-http://iptv.latino-webtv.com/server2.m3u8?canal=BeinSportsLA&cm=2527
-#EXTINF:-1,Win Sports
+#EXTINF:0,Win Sports
 http://iptv.latino-webtv.com/win.m3u8
-#EXTINF:-1,UFC Network
-http://iptv.latino-webtv.com/server2.m3u8?canal=UFCNetworkLA&cm=1047
-#EXTINF:0,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Planeta Futbol
 http://iptv.latino-webtv.com/server2.m3u8?canal=PlanetaFutbolLA&cm=1477
-#EXTINF:0,F1 Latino
-http://iptv.latino-webtv.com/server2.m3u8?canal=F1LA&cm=1695
-#EXTINF:-1,ESPN
+#EXTINF:0,ESPN
 http://iptv.latino-webtv.com/server1.m3u8?ch=558&cl=3
-#EXTINF:-1,ESPN 2
+#EXTINF:0,ESPN 2
 http://iptv.latino-webtv.com/server1.m3u8?ch=561&cl=3
-#EXTINF:-1,ESPN 3
+#EXTINF:0,ESPN 3
 http://iptv.latino-webtv.com/server1.m3u8?ch=520&cl=3
-#EXTINF:-1,Kazsport ANGLO
+#EXTINF:0,NFL Network HD
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:0, NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,Euro sport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,EURO SPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,NTV SPOR
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,SPORTS TV
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+#EXTINF:-1,SPORTV2
+http://37.203.209.34:443/mobile/bob06/live.m3u8
+#EXTINF:0,Kazsport ANGLO
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
-#EXTINF:-1, SPORT TV AMERICAS
+#EXTINF:0,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0,ESPN UK 
-http://195.154.226.186:1935/livee/espnuklsh/playlist.m3u8 
-#EXTINF:0,Premier sports 
-http://195.154.226.186:1935/livee/vpremsplsh/playlist.m3u8
-#EXTINF:-1,EUROSPORT 1 FR
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,YAS SPORTS 
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1,.: MUSICALES :.
 http://?
 #EXTINF:-1,ESTUDIO TV
@@ -218,6 +214,8 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,SMO TV
+rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,.:PELICULAS :.
 http://?
 #EXTINF:-1,50 SOMBRAS DE GREY
