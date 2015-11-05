@@ -138,12 +138,38 @@ http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b5
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 #EXTINF:0,--DEPORTES--
 http://?
+#EXTINF:0,SPORT LATINO
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:0,CDO HD
 http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
 #EXTINF:0,TDN
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fox Sports
+http://iptv.latino-webtv.com/server1.m3u8?ch=522&cl=3
+#EXTINF:-1,Fox Sports 2
+http://iptv.latino-webtv.com/server1.m3u8?ch=527&cl=3
+#EXTINF:-1,Fox Sports 3
+http://iptv.latino-webtv.com/server2.m3u8?canal=FoxSports3SD&cm=3806
+#EXTINF:-1,Bein Ñ Sports
+http://iptv.latino-webtv.com/server2.m3u8?canal=BeinSportsLA&cm=2527
+#EXTINF:-1,Win Sports
+http://iptv.latino-webtv.com/win.m3u8
+#EXTINF:-1,UFC Network
+http://iptv.latino-webtv.com/server2.m3u8?canal=UFCNetworkLA&cm=1047
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Planeta Futbol
+http://iptv.latino-webtv.com/server2.m3u8?canal=PlanetaFutbolLA&cm=1477
+#EXTINF:0,F1 Latino
+http://iptv.latino-webtv.com/server2.m3u8?canal=F1LA&cm=1695
+#EXTINF:-1,ESPN
+http://iptv.latino-webtv.com/server1.m3u8?ch=558&cl=3
+#EXTINF:-1,ESPN 2
+http://iptv.latino-webtv.com/server1.m3u8?ch=561&cl=3
+#EXTINF:-1,ESPN 3
+http://iptv.latino-webtv.com/server1.m3u8?ch=520&cl=3
 #EXTINF:-1,Kazsport ANGLO
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
 #EXTINF:-1, SPORT TV AMERICAS
