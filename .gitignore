@@ -5,8 +5,6 @@ http://?
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:0,RedTV
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:0,UCV HD
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:0,TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:0,Mega HD
@@ -19,8 +17,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0,El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
-#EXTINF:-1,Canal 5 Puerto Montt
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Campus TV 
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:0,Arica TV
@@ -43,8 +39,6 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 #EXTINF:0, Contivision
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b796000.m3u8
-#EXTINF:0, RecTV
-http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 #EXTINF:-1, UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 #EXTINF:-1,QuintaVision Viña del Mar
@@ -57,6 +51,72 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 #EXTINF:-1,Tv 4 Lota
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:-1,.:prueba :.
+http://?
+#EXTINF:-1,AMC
+http://latinochannels.2fh.co/canales/hls/amc.m3u8
+#EXTINF:-1,Cinemax
+http://latinochannels.2fh.co/canales/hls/cinemax.m3u8
+#EXTINF:-1,Cinecanal
+http://latinochannels.2fh.co/canales/hls/cinecanal.m3u8
+#EXTINF:-1,Cinecanal HD
+http://latinochannels.2fh.co/canales/hls/cinecanal-hd.m3u8
+#EXTINF:-1,Fox 1
+http://latinochannels.2fh.co/canales/hls/fox-1.m3u8
+#EXTINF:-1,Fox Action
+http://latinochannels.2fh.co/canales/hls/fox-action.m3u8
+#EXTINF:-1,Fox Comedy
+http://latinochannels.2fh.co/canales/hls/fox-comedy.m3u8
+#EXTINF:-1,Fox Cinema
+http://latinochannels.2fh.co/canales/hls/fox-cinema.m3u8
+#EXTINF:-1,Fox Classics
+http://latinochannels.2fh.co/canales/hls/fox-classics.m3u8
+#EXTINF:-1,Fox Movies
+http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
+#EXTINF:-1,Fox Family
+http://latinochannels.2fh.co/canales/hls/fox-family.m3u8
+#EXTINF:-1,Baby First TV 
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=1
+#EXTINF:0,--ESPAÑA--
+http://?
+#EXTINF:0 group-title="AN",Ondaluz Sevilla - 34TDT - Sevilla - AN Sevilla
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:0 group-title="MD",Canal Parlamento - CTV - Madrid - MD Madrid TDT
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:0 group-title="MD",HispanTV - CTV - Madrid - MD Madrid TDT
+http://ptv-hls.streaming.overon.es/ch04/livehigh.m3u8
+#EXTINF:0 group-title="MD",Mega - 26TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:0 group-title="MD",13tv - 39TDT - Madrid - MD Madrid TDT
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="MD",Intereconomía TV - 39TDT - Madrid - MD Madrid TDT
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:0 group-title="MD",Kiss TV - 39TDT - Madrid - MD Madrid TDT
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0 group-title="MD",TVE TDP - 41TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es:1935/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+#EXTINF:0 group-title="MD",Cuatro - 49TDT - Madrid - MD Madrid TDT
+http://mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_500_av-p.m3u8
+#EXTINF:0 group-title="MD",Telecinco - 49TDT - Madrid - MD Madrid TDT
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
+#EXTINF:0 group-title="MD",La Otra - 55TDT - Madrid - MD Madrid TDT
+rtmp://telemadridlivefs.fplive.net:1935/laotralive-live/stream1
+#EXTINF:0 group-title="MD",Telemadrid - 55TDT - Madrid - MD Madrid TDT
+rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1
+#EXTINF:0 group-title="MD",C33 - 57TDT - Madrid - MD Madrid TDT
+http://iphone-streaming.ustream.tv/ustreamVideo/15741867/streams/live/playlist.m3u8
+#EXTINF:0 group-title="MD",TVE 24h - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:0 group-title="MD",TVE La 1 - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:0 group-title="MD",TVE La 2 - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:0 group-title="MD",Antena 3 - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 group-title="MD",laSexta - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/master.m3u8
+#EXTINF:0 group-title="MD",NOVA - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/nova/novageo_1@379404/master.m3u8
 #EXTINF:0,--Cable--
 http://?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ NOTICIAS
@@ -375,15 +435,6 @@ http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 #EXTINF:-1,Azteca 7 MEXICO
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,.: ALEMANIA :.
-#EXTINF:-1,Das Neue TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,Family TV HD
-http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-#EXTINF:-1,Alex Berlin^
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
-#EXTINF:-1,München TV GERMANY
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 #EXTINF:0,--DEPORTES--
 http://?
 #EXTINF:0,DXTV DEPORTV
@@ -418,8 +469,32 @@ http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1,.: MUSICALES :.
 http://?
-#EXTINF:-1,ESTUDIO TV
-rtmp://190.107.176.167:1935/live/estudio-tv
+#EXTINF:-1,ПИК ТВ HD
+http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
+#EXTINF:-1,ESKA Party TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Eska ROCK TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,ESKA Best Music TV
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Eska TV
+rtmp://stream.smcloud.net/live2/eskatv/eskatv_480p
+#EXTINF:-1,DJING Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,DJING Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,Big Pond Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:0,Big Pond Music- 2
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
+#EXTINF:0,1 HD
+rtmp://rtmp.one.by/SD/1muz
+#EXTINF:0,1 HD - 2
+http://rtmp.one.by:1300
+#EXTINF:-1,SMO TV
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:0,Bridge TV
+http://109.172.11.85:1234/udp/224.0.42.7:5000
 #EXTINF:-1,Heart Tv HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Film on Tv ANGLO
@@ -428,6 +503,8 @@ http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,Q Musica
 mms://200.42.92.6:1755/qmusica
+#EXTINF:0,One.by
+http://rtmp.one.by:2200
 #EXTINF:0,VEVO 1 HD Pop
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,USA:VEVO HD 
@@ -448,8 +525,6 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1,SMO TV
-rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,.: PELICULAS :.
 http://?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",los 33 
