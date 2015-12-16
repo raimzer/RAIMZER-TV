@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,.: CHILE :.
 http://?
+#EXTINF:-1,LIV TV
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 #EXTINF:-1,ATV Antofagasta HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:0,RedTV
