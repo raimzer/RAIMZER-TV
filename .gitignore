@@ -1,12 +1,28 @@
 #EXTM3U
+#EXTINF:-1,Ventas Android Tv Box bestpriceiquique@usa.com
+http://?
+#EXTINF:-1,Facebook best price iquique
+http://?
+#EXTINF:-1,.: Prueba HD 26/12/2015 :.
+http://?
+#EXTINF:-1,Fox 1 HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1,Fox Action HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL416/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1,Fox Movies HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL417/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1,Cinecanal HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL430/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1,TNT HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL435/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1,Golden HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL436/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,.: CHILE :.
 http://?
 #EXTINF:-1,LIV TV
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 #EXTINF:-1,ATV Antofagasta HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
-#EXTINF:0,RedTV
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:0,TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:0,Mega HD
@@ -53,32 +69,6 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 #EXTINF:-1,Tv 4 Lota
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1,.:prueba :.
-http://?
-#EXTINF:-1,AMC
-http://latinochannels.2fh.co/canales/hls/amc.m3u8
-#EXTINF:-1,Cinemax
-http://latinochannels.2fh.co/canales/hls/cinemax.m3u8
-#EXTINF:-1,Cinecanal
-http://latinochannels.2fh.co/canales/hls/cinecanal.m3u8
-#EXTINF:-1,Cinecanal HD
-http://latinochannels.2fh.co/canales/hls/cinecanal-hd.m3u8
-#EXTINF:-1,Fox 1
-http://latinochannels.2fh.co/canales/hls/fox-1.m3u8
-#EXTINF:-1,Fox Action
-http://latinochannels.2fh.co/canales/hls/fox-action.m3u8
-#EXTINF:-1,Fox Comedy
-http://latinochannels.2fh.co/canales/hls/fox-comedy.m3u8
-#EXTINF:-1,Fox Cinema
-http://latinochannels.2fh.co/canales/hls/fox-cinema.m3u8
-#EXTINF:-1,Fox Classics
-http://latinochannels.2fh.co/canales/hls/fox-classics.m3u8
-#EXTINF:-1,Fox Movies
-http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
-#EXTINF:-1,Fox Family
-http://latinochannels.2fh.co/canales/hls/fox-family.m3u8
-#EXTINF:-1,Baby First TV 
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=1
 #EXTINF:0,--ESPAÑA--
 http://?
 #EXTINF:0 group-title="AN",Ondaluz Sevilla - 34TDT - Sevilla - AN Sevilla
@@ -205,13 +195,13 @@ http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX LIFE
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX LIFE HD
+#EXTINF:-1,FOX LIFE HD
 http://200.76.77.237/LIVE/H01/CANAL777/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FX HD
+#EXTINF:-1,FX HD
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CINECANAL+
+#EXTINF:-1,CINECANAL+
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CINECANAL
+#EXTINF:-1,CINECANAL
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TNT HD
 http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -439,14 +429,16 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:0,--DEPORTES--
 http://?
-#EXTINF:0,DXTV DEPORTV
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+#EXTINF:0,DX TV 
 http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0,SPORT LATINO
+#EXTINF:0,DX TV 2
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
-#EXTINF:-1,CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:0,CDO HD
-http://movilstream.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist-b1064000.m3u8
+#EXTINF:-1,НТВ+ Спорт
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1,Bein Sports 1
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:0,NFL Network HD
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 #EXTINF:0, NFL Now HD
@@ -459,18 +451,44 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1,SPORTS TV
 http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-#EXTINF:-1,SPORTV2
-http://37.203.209.34:443/mobile/bob06/live.m3u8
 #EXTINF:0,Kazsport ANGLO
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
 #EXTINF:0,SPORT TV AMERICAS
-http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 #EXTINF:-1,DUBAI SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,YAS SPORTS 
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,НТВ+ Спорт Плюс
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1,Eurosport FR HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Kaz Sport
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,BS TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,.: MUSICALES :.
 http://?
+#EXTINF:-1,Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Djing Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Djing DJS
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+#EXTINF:-1,M6 Music
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1,ПИК ТВ HD
 http://fms.pik-tv.com:1935/live/piktv3pik3tv/playlist.m3u8
 #EXTINF:-1,ESKA Party TV
@@ -529,7 +547,7 @@ http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 #EXTINF:-1,.: PELICULAS :.
 http://?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",los 33 
+#EXTINF:-1,los 33 
 https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Mision imposible: Nacion secreta
 https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22
