@@ -5,6 +5,8 @@ http://?
 http://?
 #EXTINF:-1,.: Prueba HD 26/12/2015 :.
 http://?
+#EXTINF:-1,Bein Sport HD
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
 #EXTINF:-1,Fox 1 HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,Fox Action HD
@@ -69,49 +71,11 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 #EXTINF:-1,Tv 4 Lota
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0,--ESPAÑA--
-http://?
-#EXTINF:0 group-title="AN",Ondaluz Sevilla - 34TDT - Sevilla - AN Sevilla
-http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:0 group-title="MD",Canal Parlamento - CTV - Madrid - MD Madrid TDT
-http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
-#EXTINF:0 group-title="MD",HispanTV - CTV - Madrid - MD Madrid TDT
-http://ptv-hls.streaming.overon.es/ch04/livehigh.m3u8
-#EXTINF:0 group-title="MD",Mega - 26TDT - Madrid - MD Madrid TDT
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
-#EXTINF:0 group-title="MD",13tv - 39TDT - Madrid - MD Madrid TDT
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:0 group-title="MD",Intereconomía TV - 39TDT - Madrid - MD Madrid TDT
-http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
-#EXTINF:0 group-title="MD",Kiss TV - 39TDT - Madrid - MD Madrid TDT
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0 group-title="MD",TVE TDP - 41TDT - Madrid - MD Madrid TDT
-http://iphonelive.rtve.es:1935/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
-#EXTINF:0 group-title="MD",Cuatro - 49TDT - Madrid - MD Madrid TDT
-http://mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_500_av-p.m3u8
-#EXTINF:0 group-title="MD",Telecinco - 49TDT - Madrid - MD Madrid TDT
-http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
-#EXTINF:0 group-title="MD",La Otra - 55TDT - Madrid - MD Madrid TDT
-rtmp://telemadridlivefs.fplive.net:1935/laotralive-live/stream1
-#EXTINF:0 group-title="MD",Telemadrid - 55TDT - Madrid - MD Madrid TDT
-rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1
-#EXTINF:0 group-title="MD",C33 - 57TDT - Madrid - MD Madrid TDT
-http://iphone-streaming.ustream.tv/ustreamVideo/15741867/streams/live/playlist.m3u8
-#EXTINF:0 group-title="MD",TVE 24h - 58TDT - Madrid - MD Madrid TDT
-http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:0 group-title="MD",TVE La 1 - 58TDT - Madrid - MD Madrid TDT
-http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-#EXTINF:0 group-title="MD",TVE La 2 - 58TDT - Madrid - MD Madrid TDT
-http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:0 group-title="MD",Antena 3 - 59TDT - Madrid - MD Madrid TDT
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 group-title="MD",laSexta - 59TDT - Madrid - MD Madrid TDT
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/master.m3u8
-#EXTINF:0 group-title="MD",NOVA - 59TDT - Madrid - MD Madrid TDT
-http://a3live-lh.akamaihd.net/i/nova/novageo_1@379404/master.m3u8
 #EXTINF:0,--Cable--
 http://?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ NOTICIAS
+#EXTINF:0,MEGA HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,AZ NOTICIAS
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL 7
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
