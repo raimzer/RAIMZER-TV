@@ -3,7 +3,7 @@
 http://?
 #EXTINF:-1,Facebook best price iquique
 http://?
-#EXTINF:-1,En proceso de actualizacion de lista...
+#EXTINF:-1,Actualizando Lista...
 http://?
 #EXTINF:-1,.: CHILE :.
 http://?
@@ -65,6 +65,10 @@ http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0,--Cable--
 http://?
+#EXTINF:-1,TVE 1 (La1)
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1,TVE 1 (La2)
+http://api.iptv.ink/pl.m3u8?ch=91170153
 #EXTINF:-1,CANAL+ 1 HD
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
 #EXTINF:-1,Discovery LQ
@@ -81,8 +85,36 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,E europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:-1, France TV CLUB 1
+http://tvclub.fr/ch01.ts
+#EXTINF:-1, France TV CLUB 2
+http://tvclub.fr/ch02.ts
+#EXTINF:-1, France TV CLUB 3
+http://tvclub.fr/ch03.ts
+#EXTINF:-1, France TV CLUB 4
+http://tvclub.fr/ch04.ts
+#EXTINF:-1, France TV CLUB 5
+http://tvclub.fr/ch05.ts
+#EXTINF:-1, France TV CLUB 6
+http://tvclub.fr/ch06.ts
+#EXTINF:-1, France TV CLUB 7
+http://tvclub.fr/ch07.ts
+#EXTINF:-1, France TV CLUB 8
+http://tvclub.fr/ch08.ts
+#EXTINF:-1, France TV CLUB 9
+http://tvclub.fr/ch09.ts
+#EXTINF:-1, France TV CLUB 10
+http://tvclub.fr/ch10.ts
+#EXTINF:-1, France TV CLUB 111
+http://tvclub.fr/ch11.ts
 #EXTINF:0,--DEPORTES--
 http://?
+#EXTINF:0,Sky Sports 1
+ http://80.243.189.26:81/sportshd/sky2/index.m3u8
+#EXTINF:0,Sky Bundesliga 
+http://bit.ly/1QqZAJV
+#EXTINF:0,BeIn Sport 3 HD
+rtmp://85.132.67.123:1935/live/be03
 #EXTINF:-1,futbol
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,DX TV 
@@ -127,6 +159,10 @@ http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,.: MUSICALES :.
 http://?
+#EXTINF:-1,Retro Music TV
+http://185.47.221.123:4022/udp/238.0.0.31:1234
+#EXTINF:-1,Ocko Gold
+http://185.47.221.123:4022/udp/238.0.0.35:1234
 #EXTINF:-1,Indies Live
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1,Clubland TV
